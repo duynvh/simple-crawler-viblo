@@ -94,7 +94,7 @@ func totalPage() int {
 	doc, err := goquery.NewDocumentFromReader(response.Body)
 	checkError(err)
 
-	lastPageLink, _ := doc.Find("ul.pagination li:last-child a").Attr("href") // Đọc dữ liệu từ thẻ a của ul.pagination
+	lastPageLink, _ := doc.Find("ul.pagination li:nth-last-child(2) a").Attr("href") // Đọc dữ liệu từ thẻ a của ul.pagination
 	fmt.Println(lastPageLink)
 	split := strings.Split(lastPageLink, "=")[1]
 	totalPages, _ := strconv.Atoi(split)
@@ -140,7 +140,7 @@ func allPage() {
 	sem := semaphore.NewWeighted(int64(runtime.NumCPU())) // Tạo ra số lượng group goroutines bằng 8 lần số luồng CPU, cùng đồng thời đi thu thập thông tin
 	group, ctx := errgroup.WithContext(context.Background())
 	var totalResults int = 0
-	totalPage := 10
+	totalPage := totalPage()
 	fmt.Println("Total CPU:", runtime.NumCPU())
 
 	for page := 1; page <= totalPage; page ++ { // Lặp qua từng trang đã được phân trang

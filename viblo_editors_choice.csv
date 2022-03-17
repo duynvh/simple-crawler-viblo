@@ -19,26 +19,6 @@ Viết một trình đóng gói code tương tự webpack,https://viblo.asia/p/v
 Chuyện đó không dễ lắm,https://viblo.asia/p/chuyen-do-khong-de-lam-E375zVDR5GW
 Lộ trình 2 năm để trở thành lập trình viên Reactjs chuyên nghiệp,https://viblo.asia/p/lo-trinh-2-nam-de-tro-thanh-lap-trinh-vien-reactjs-chuyen-nghiep-gDVK24xvlLj
 Code đạo -  Đạo của người viết code,https://viblo.asia/p/code-dao-dao-cua-nguoi-viet-code-07LKX7AJ5V4
-"Cíu, tui merge PR vào nhầm nhánh rồi 😱",https://viblo.asia/p/ciu-tui-merge-pr-vao-nham-nhanh-roi-3P0lPqrv5ox
-"Bài toán ""Super fast API"" với Golang và Mongodb",https://viblo.asia/p/bai-toan-super-fast-api-voi-golang-va-mongodb-3Q75wmA7ZWb
-Một số Design Principles trong lập trình mà bạn nên biết,https://viblo.asia/p/mot-so-design-principles-trong-lap-trinh-ma-ban-nen-biet-eW65GvJOlDO
-[Deep Learning] - Thuật toán Faster-RCNN với bài toán phát hiện đường lưỡi bò - Faster-RCNN object detection algorithm for Nine-dash-line detection!,https://viblo.asia/p/deep-learning-thuat-toan-faster-rcnn-voi-bai-toan-phat-hien-duong-luoi-bo-faster-rcnn-object-detection-algorithm-for-nine-dash-line-detection-bJzKmREOZ9N
-Change Retrofit's Base Url at runtime.,https://viblo.asia/p/change-retrofits-base-url-at-runtime-ORNZqDLMK0n
-Refactoring UI - những mẹo hay và dễ dàng để có UI web đẹp như trong mơ,https://viblo.asia/p/refactoring-ui-nhung-meo-hay-va-de-dang-de-co-ui-web-dep-nhu-trong-mo-Qpmler775rd
-Tạo ảnh gif từ sticker Facebook,https://viblo.asia/p/tao-anh-gif-tu-sticker-facebook-RQqKLLkbK7z
-Giải đáp thắc mắc về Variable và bộ nhớ trong Python,https://viblo.asia/p/giai-dap-thac-mac-ve-variable-va-bo-nho-trong-python-Az45bzgz5xY
-Kiểm tra một số có phải số nguyên tố không bằng regex?,https://viblo.asia/p/kiem-tra-mot-so-co-phai-so-nguyen-to-khong-bang-regex-ORNZqDGGK0n
-ECDSA - hệ mật dựa trên đường cong Elliptic và ứng dụng trong Blockchain,https://viblo.asia/p/ecdsa-he-mat-dua-tren-duong-cong-elliptic-va-ung-dung-trong-blockchain-XL6lA4oDZek
-Một Số Lưu Ý Khi Đọc Research Paper Cho Người Mới,https://viblo.asia/p/mot-so-luu-y-khi-doc-research-paper-cho-nguoi-moi-naQZR910Kvx
-"Khi nào refactor, khi nào code ?",https://viblo.asia/p/khi-nao-refactor-khi-nao-code-1VgZv0dO5Aw
-1 ngày làm analytic: Đo lường CCU theo thời gian thực,https://viblo.asia/p/1-ngay-lam-analytic-do-luong-ccu-theo-thoi-gian-thuc-4P856L0BZY3
-[Become A SuperUser] Filesystem Hierarchy Standard,https://viblo.asia/p/become-a-superuser-filesystem-hierarchy-standard-gAm5ybw8Kdb
-Nghệ thuật xử lý background job phần 2: Job order with concurrent worker,https://viblo.asia/p/nghe-thuat-xu-ly-background-job-phan-2-job-order-with-concurrent-worker-LzD5d1YOKjY
-[Paper Explain][Segmentation] Tóm tắt nội dung  và implement paper BiSeNet với PyTorch,https://viblo.asia/p/paper-explainsegmentation-tom-tat-noi-dung-va-implement-paper-bisenet-voi-pytorch-eW65GLDOKDO
-Cần làm gì khi bắt đầu 1 dự án mới,https://viblo.asia/p/can-lam-gi-khi-bat-dau-1-du-an-moi-QpmlearDlrd
-Tại sao mạng tích chập lại hoạt động hiệu quả?,https://viblo.asia/p/tai-sao-mang-tich-chap-lai-hoat-dong-hieu-qua-jvEla076Zkw
-Sự khác nhau giữa Linear Classification và Linear Regression? Tất cả những gì bạn cần biết về 2 mô hình cơ bản nhất ML.,https://viblo.asia/p/su-khac-nhau-giua-linear-classification-va-linear-regression-tat-ca-nhung-gi-ban-can-biet-ve-2-mo-hinh-co-ban-nhat-ml-OeVKBvMdKkW
-Leo thang đặc quyền trong Linux - Linux Privilege Escalation #0: Using Sudo Rights,https://viblo.asia/p/leo-thang-dac-quyen-trong-linux-linux-privilege-escalation-0-using-sudo-rights-3Q75w8x2KWb
 Phân tích CVE-2021-26295 Apache OFBIZ,https://viblo.asia/p/phan-tich-cve-2021-26295-apache-ofbiz-RQqKLGMO57z
 Tìm hiểu về Text Steganography,https://viblo.asia/p/tim-hieu-ve-text-steganography-07LKXoVD5V4
 Hành trình AI của một sinh viên tồi,https://viblo.asia/p/hanh-trinh-ai-cua-mot-sinh-vien-toi-m68Z0AVzlkG
@@ -59,26 +39,26 @@ Zing MP3 - Tôi đã khai thác API như thế nào ?,https://viblo.asia/p/zing-
 Những điều mình học được sau 3 năm làm CTO công ty công nghệ,https://viblo.asia/p/nhung-dieu-minh-hoc-duoc-sau-3-nam-lam-cto-cong-ty-cong-nghe-WAyK89QoZxX
 Implement Multi-Connections Download in Go - Part I,https://viblo.asia/p/implement-multi-connections-download-in-go-part-i-4P856q01lY3
 Semantic Versioning,https://viblo.asia/p/semantic-versioning-OeVKBN2EKkW
-[Deep Learning] Thiết kế module OCR cho bài toán nhận diện chữ cổ Nhật Bản - Building OCR module for Kuzushiji recognition,https://viblo.asia/p/deep-learning-thiet-ke-module-ocr-cho-bai-toan-nhan-dien-chu-co-nhat-ban-building-ocr-module-for-kuzushiji-recognition-V3m5WPngKO7
-HTTP/3 là gì?,https://viblo.asia/p/http3-la-gi-RQqKLPNMK7z
-Giải trí mùa corona - Ứng dụng Deep Learning tự động chơi game oản tù tì với deeplearn.js,https://viblo.asia/p/giai-tri-mua-corona-ung-dung-deep-learning-tu-dong-choi-game-oan-tu-ti-voi-deeplearnjs-LzD5ddwE5jY
-Rubber Ducking – Kỹ thuật Debug thượng thừa,https://viblo.asia/p/rubber-ducking-ky-thuat-debug-thuong-thua-bJzKmxNO59N
-HTTP Common Method Properties,https://viblo.asia/p/http-common-method-properties-4P856NBB5Y3
-Tạo chatbot trên Chatwork tự động giải đáp thông tin về dịch COVID-2020,https://viblo.asia/p/tao-chatbot-tren-chatwork-tu-dong-giai-dap-thong-tin-ve-dich-covid-2020-924lJq9XZPM
-Nhật ký làm hệ thống getLink vip Fshare trong 48h,https://viblo.asia/p/nhat-ky-lam-he-thong-getlink-vip-fshare-trong-48h-m68Z07v6KkG
-Tạo Extension Get Tất Cả Profile Của Các Members Trong Một Group Facebook Ra File Excel,https://viblo.asia/p/tao-extension-get-tat-ca-profile-cua-cac-members-trong-mot-group-facebook-ra-file-excel-oOVlYLRaZ8W
-Leo thang đặc quyền trong Linux - Linux Privilege Escalation #1: Using SUID bit,https://viblo.asia/p/leo-thang-dac-quyen-trong-linux-linux-privilege-escalation-1-using-suid-bit-QpmlexgrZrd
-MySQL Performance Tuning: A Real World Example,https://viblo.asia/p/mysql-performance-tuning-a-real-world-example-eW65Gbe6lDO
-Giới thiệu Hype Cycle - và câu chuyện chúng ta đang đứng ở đâu trong chu kỳ bong bóng,https://viblo.asia/p/gioi-thieu-hype-cycle-va-cau-chuyen-chung-ta-dang-dung-o-dau-trong-chu-ky-bong-bong-Az45baxqlxY
-Viết một ứng dụng Chat Bot nhắc lịch học chưa bao giờ dễ dàng đến thế với Google Script,https://viblo.asia/p/viet-mot-ung-dung-chat-bot-nhac-lich-hoc-chua-bao-gio-de-dang-den-the-voi-google-script-63vKjkJkZ2R
-Xây dựng biểu đồ phân tích chứng khoán sử dụng Python (P1),https://viblo.asia/p/xay-dung-bieu-do-phan-tich-chung-khoan-su-dung-python-p1-vyDZOaXO5wj
-"Thuật toán xếp hạng bài viết đang hot, thịnh hành như Reddit và Hacker News hoạt động thế nào?",https://viblo.asia/p/thuat-toan-xep-hang-bai-viet-dang-hot-thinh-hanh-nhu-reddit-va-hacker-news-hoat-dong-the-nao-gAm5y8xXldb
-Lí do tôi yêu Docker,https://viblo.asia/p/li-do-toi-yeu-docker-ORNZqxRMK0n
-Cách phân tích độ phức tạp thời gian: Đếm bước thuật toán,https://viblo.asia/p/cach-phan-tich-do-phuc-tap-thoi-gian-dem-buoc-thuat-toan-924lJpAWKPM
-Cách mình từng ngày cải thiện kĩ năng code Javascript,https://viblo.asia/p/cach-minh-tung-ngay-cai-thien-ki-nang-code-javascript-aWj5367ol6m
-Ông Toằn Vi Lốc - Bí kíp võ công để tạo mô hình siêu siêu nhỏ li ti với độ chính xác khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-bi-kip-vo-cong-de-tao-mo-hinh-sieu-sieu-nho-li-ti-voi-do-chinh-xac-khong-lo-Qpmleon9Krd
-Làm thế nào để dùng một model cho nhiều công chuyện?,https://viblo.asia/p/lam-the-nao-de-dung-mot-model-cho-nhieu-cong-chuyen-1VgZv40O5Aw
-Tự đo chỉ số ô nhiễm không khí tại nhà với sensor và Raspberry Pi,https://viblo.asia/p/tu-do-chi-so-o-nhiem-khong-khi-tai-nha-voi-sensor-va-raspberry-pi-YWOZrBBvZQ0
+"Cíu, tui merge PR vào nhầm nhánh rồi 😱",https://viblo.asia/p/ciu-tui-merge-pr-vao-nham-nhanh-roi-3P0lPqrv5ox
+"Bài toán ""Super fast API"" với Golang và Mongodb",https://viblo.asia/p/bai-toan-super-fast-api-voi-golang-va-mongodb-3Q75wmA7ZWb
+Một số Design Principles trong lập trình mà bạn nên biết,https://viblo.asia/p/mot-so-design-principles-trong-lap-trinh-ma-ban-nen-biet-eW65GvJOlDO
+[Deep Learning] - Thuật toán Faster-RCNN với bài toán phát hiện đường lưỡi bò - Faster-RCNN object detection algorithm for Nine-dash-line detection!,https://viblo.asia/p/deep-learning-thuat-toan-faster-rcnn-voi-bai-toan-phat-hien-duong-luoi-bo-faster-rcnn-object-detection-algorithm-for-nine-dash-line-detection-bJzKmREOZ9N
+Change Retrofit's Base Url at runtime.,https://viblo.asia/p/change-retrofits-base-url-at-runtime-ORNZqDLMK0n
+Refactoring UI - những mẹo hay và dễ dàng để có UI web đẹp như trong mơ,https://viblo.asia/p/refactoring-ui-nhung-meo-hay-va-de-dang-de-co-ui-web-dep-nhu-trong-mo-Qpmler775rd
+Tạo ảnh gif từ sticker Facebook,https://viblo.asia/p/tao-anh-gif-tu-sticker-facebook-RQqKLLkbK7z
+Giải đáp thắc mắc về Variable và bộ nhớ trong Python,https://viblo.asia/p/giai-dap-thac-mac-ve-variable-va-bo-nho-trong-python-Az45bzgz5xY
+Kiểm tra một số có phải số nguyên tố không bằng regex?,https://viblo.asia/p/kiem-tra-mot-so-co-phai-so-nguyen-to-khong-bang-regex-ORNZqDGGK0n
+ECDSA - hệ mật dựa trên đường cong Elliptic và ứng dụng trong Blockchain,https://viblo.asia/p/ecdsa-he-mat-dua-tren-duong-cong-elliptic-va-ung-dung-trong-blockchain-XL6lA4oDZek
+Một Số Lưu Ý Khi Đọc Research Paper Cho Người Mới,https://viblo.asia/p/mot-so-luu-y-khi-doc-research-paper-cho-nguoi-moi-naQZR910Kvx
+"Khi nào refactor, khi nào code ?",https://viblo.asia/p/khi-nao-refactor-khi-nao-code-1VgZv0dO5Aw
+1 ngày làm analytic: Đo lường CCU theo thời gian thực,https://viblo.asia/p/1-ngay-lam-analytic-do-luong-ccu-theo-thoi-gian-thuc-4P856L0BZY3
+[Become A SuperUser] Filesystem Hierarchy Standard,https://viblo.asia/p/become-a-superuser-filesystem-hierarchy-standard-gAm5ybw8Kdb
+Nghệ thuật xử lý background job phần 2: Job order with concurrent worker,https://viblo.asia/p/nghe-thuat-xu-ly-background-job-phan-2-job-order-with-concurrent-worker-LzD5d1YOKjY
+[Paper Explain][Segmentation] Tóm tắt nội dung  và implement paper BiSeNet với PyTorch,https://viblo.asia/p/paper-explainsegmentation-tom-tat-noi-dung-va-implement-paper-bisenet-voi-pytorch-eW65GLDOKDO
+Cần làm gì khi bắt đầu 1 dự án mới,https://viblo.asia/p/can-lam-gi-khi-bat-dau-1-du-an-moi-QpmlearDlrd
+Tại sao mạng tích chập lại hoạt động hiệu quả?,https://viblo.asia/p/tai-sao-mang-tich-chap-lai-hoat-dong-hieu-qua-jvEla076Zkw
+Sự khác nhau giữa Linear Classification và Linear Regression? Tất cả những gì bạn cần biết về 2 mô hình cơ bản nhất ML.,https://viblo.asia/p/su-khac-nhau-giua-linear-classification-va-linear-regression-tat-ca-nhung-gi-ban-can-biet-ve-2-mo-hinh-co-ban-nhat-ml-OeVKBvMdKkW
+Leo thang đặc quyền trong Linux - Linux Privilege Escalation #0: Using Sudo Rights,https://viblo.asia/p/leo-thang-dac-quyen-trong-linux-linux-privilege-escalation-0-using-sudo-rights-3Q75w8x2KWb
 "FFmpeg và 20 câu lệnh cơ bản xử lý âm thanh, hình ảnh và video",https://viblo.asia/p/ffmpeg-va-20-cau-lenh-co-ban-xu-ly-am-thanh-hinh-anh-va-video-naQZRYBAKvx
 "Nâng cao chất lượng code và hiệu quả làm việc nhóm với Husky, Lint-Staged, CommitLint",https://viblo.asia/p/nang-cao-chat-luong-code-va-hieu-qua-lam-viec-nhom-voi-husky-lint-staged-commitlint-4dbZNnMnZYM
 Closures.,https://viblo.asia/p/closures-07LKXbWDlV4
@@ -99,86 +79,6 @@ Nghệ thuật xử lý background job phần 3: Push hàng triệu notification
 "Thôi xong, tui push secret key lên github rồi 😱",https://viblo.asia/p/thoi-xong-tui-push-secret-key-len-github-roi-1Je5ED0GlnL
 Minify file and obfuscate CSS class names,https://viblo.asia/p/minify-file-and-obfuscate-css-class-names-RnB5p3pdlPG
 Tôi đã hack hệ thống điểm danh của trường mình như thế nào?,https://viblo.asia/p/toi-da-hack-he-thong-diem-danh-cua-truong-minh-nhu-the-nao-gDVK2JDjKLj
-"Hệ thống analytic ""sương sương"" từ dữ liệu 30 triệu người dùng",https://viblo.asia/p/he-thong-analytic-suong-suong-tu-du-lieu-30-trieu-nguoi-dung-vyDZOwwRZwj
-Tiếp cận reverse engineering javascript - Case study: Chatwork,https://viblo.asia/p/tiep-can-reverse-engineering-javascript-case-study-chatwork-aWj53661l6m
-Xin Đừng Ngáo AI...,https://viblo.asia/p/xin-dung-ngao-ai-ByEZkOPWZQ0
-Docker image tagging strategy for deploying to production,https://viblo.asia/p/docker-image-tagging-strategy-for-deploying-to-production-924lJW465PM
-Tìm hiểu và xây dựng các hệ thống Chatbot trong thực thế,https://viblo.asia/p/tim-hieu-va-xay-dung-cac-he-thong-chatbot-trong-thuc-the-XL6lA8D4Zek
-[AI Interview]  12  câu hỏi phỏng vấn Deep Learning siêu hay không thể bỏ qua,https://viblo.asia/p/ai-interview-12-cau-hoi-phong-van-deep-learning-sieu-hay-khong-the-bo-qua-LzD5djvEZjY
-Tách lời khỏi nhạc: công cụ không thể thiếu cho các producer phòng ngủ,https://viblo.asia/p/tach-loi-khoi-nhac-cong-cu-khong-the-thieu-cho-cac-producer-phong-ngu-1Je5EXPLlnL
-Một ứng dụng trên Hyperledger Fabric sẽ trông như thế nào ?,https://viblo.asia/p/mot-ung-dung-tren-hyperledger-fabric-se-trong-nhu-the-nao-ORNZqGxN50n
-Con đường mình đang đi để trở thành Fullstack Web Developer,https://viblo.asia/p/con-duong-minh-dang-di-de-tro-thanh-fullstack-web-developer-maGK7VWx5j2
-Hệ điều hành máy tính hoạt động như thế nào? (phần 1),https://viblo.asia/p/he-dieu-hanh-may-tinh-hoat-dong-nhu-the-nao-phan-1-aWj534BbK6m
-Try out JIT compiler with PHP 8.0,https://viblo.asia/p/try-out-jit-compiler-with-php-80-RnB5pwMYlPG
-Ông Toằn Vi Lốc - Ứng dụng Deep Learning tự động tạo kho nhạc beat karaoke siêu to khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-ung-dung-deep-learning-tu-dong-tao-kho-nhac-beat-karaoke-sieu-to-khong-lo-Eb85owPW52G
-"Thực hiện trinh sát - thăm dò email với công cụ buster. Hướng dẫn thăm dò crush, người yêu thời đại 4.0",https://viblo.asia/p/thuc-hien-trinh-sat-tham-do-email-voi-cong-cu-buster-huong-dan-tham-do-crush-nguoi-yeu-thoi-dai-40-Eb85owY852G
-Modern Recommendation Systems in Real Application,https://viblo.asia/p/modern-recommendation-systems-in-real-application-L4x5x11BKBM
-Cơ bản các bước tiếp cận để dịch ngược một game Unity,https://viblo.asia/p/co-ban-cac-buoc-tiep-can-de-dich-nguoc-mot-game-unity-4dbZNqyLKYM
-Bạn đang viết commit message như thế nào?,https://viblo.asia/p/ban-dang-viet-commit-message-nhu-the-nao-gDVK22A0KLj
-"Tham chiếu và ghi chú ngắn về ES6, ESNext",https://viblo.asia/p/tham-chieu-va-ghi-chu-ngan-ve-es6-esnext-Do7544PQ5M6
-Ông Toằn Vi Lốc -  Ứng dụng Deep Learning  tự động sinh ra series audio truyện ma siêu to khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-ung-dung-deep-learning-tu-dong-sinh-ra-series-audio-truyen-ma-sieu-to-khong-lo-bJzKmwqkl9N
-Ethereum hoạt động như thế nào ?,https://viblo.asia/p/ethereum-hoat-dong-nhu-the-nao-6J3ZgwoEZmB
-Original DOM vs. Shadow DOM vs. Virtual DOM,https://viblo.asia/p/original-dom-vs-shadow-dom-vs-virtual-dom-GrLZDQO3lk0
-JavaScript: Popup,https://viblo.asia/p/javascript-popup-gAm5yXxXldb
-Xây dựng giao diện Android với FlexBox,https://viblo.asia/p/xay-dung-giao-dien-android-voi-flexbox-maGK7kgbKj2
-"So sánh các nền tảng tìm kiếm mã nguồn mở  Elasticsearch, SOLR và SPHINX",https://viblo.asia/p/so-sanh-cac-nen-tang-tim-kiem-ma-nguon-mo-elasticsearch-solr-va-sphinx-djeZ1b8mlWz
-Memory Leak là gì? Một số cách để tránh Memory Leak,https://viblo.asia/p/memory-leak-la-gi-mot-so-cach-de-tranh-memory-leak-924lJdYbKPM
-Tự tìm niềm vui qua ứng dụng hát karaoke bằng HTML5 Audio,https://viblo.asia/p/tu-tim-niem-vui-qua-ung-dung-hat-karaoke-bang-html5-audio-924lJE9aZPM
-JavaScript: Iterator và Generator,https://viblo.asia/p/javascript-iterator-va-generator-07LKXMQ4ZV4
-[Handbook CV with DL - Phần 2] Bài toán phân loại hình ảnh - Image Classification với Tensorflow và Tensorboard,https://viblo.asia/p/handbook-cv-with-dl-phan-2-bai-toan-phan-loai-hinh-anh-image-classification-voi-tensorflow-va-tensorboard-1Je5EJa1KnL
-Mobile First trong Web Responsive Design,https://viblo.asia/p/mobile-first-trong-web-responsive-design-XL6lAN9R5ek
-Học cách Twitter ngăn người dùng View Page Source (How Twitter prevents user from View Page Source),https://viblo.asia/p/hoc-cach-twitter-ngan-nguoi-dung-view-page-source-how-twitter-prevents-user-from-view-page-source-gDVK29m25Lj
-"Giới thiệu công cụ VisBug, chính chủ Google làm ra giúp cuộc đời FrontEnd Designer của bạn bớt khổ cực (cập nhật v1.1)",https://viblo.asia/p/gioi-thieu-cong-cu-visbug-chinh-chu-google-lam-ra-giup-cuoc-doi-frontend-designer-cua-ban-bot-kho-cuc-cap-nhat-v11-YWOZrz8pZQ0
-Luận về password hashing,https://viblo.asia/p/luan-ve-password-hashing-yMnKMOJzl7P
-Zero Knowledge Proof và privacy trên Blockchain - Part 1,https://viblo.asia/p/zero-knowledge-proof-va-privacy-tren-blockchain-part-1-Do754pq05M6
-Hyperledger - bắt đầu với Fabric hay Composer?,https://viblo.asia/p/hyperledger-bat-dau-voi-fabric-hay-composer-Ljy5VM0klra
-"3 hiểu lầm của ActiveRecord làm chậm Rails: Count, Where and Present",https://viblo.asia/p/3-hieu-lam-cua-activerecord-lam-cham-rails-count-where-and-present-4P85630GKY3
-[Laravel]Hỏi đáp về Laravel Phần 1,https://viblo.asia/p/laravelhoi-dap-ve-laravel-phan-1-1VgZva7MKAw
-[Handbook CV with DL - Phần 1] Các khái niệm cơ bản trong Computer Vision và Deep Learning,https://viblo.asia/p/handbook-cv-with-dl-phan-1-cac-khai-niem-co-ban-trong-computer-vision-va-deep-learning-maGK7p2MZj2
-CORS,https://viblo.asia/p/cors-Qpmle2er5rd
-"[Machine Learning] Attention, Attention, Attention, ...!",https://viblo.asia/p/machine-learning-attention-attention-attention-eW65GPJYKDO
-Ứng dụng AI tự động chuyển màn hình code khi phát hiện sếp đến gần,https://viblo.asia/p/ung-dung-ai-tu-dong-chuyen-man-hinh-code-khi-phat-hien-sep-den-gan-naQZRJMAZvx
-Thử làm ứng dụng tô màu ảnh với mạng Deep Learning,https://viblo.asia/p/thu-lam-ung-dung-to-mau-anh-voi-mang-deep-learning-1Je5EJQjKnL
-[Paper Explained] Product Quantization for Approximate Nearest Neighbor Search,https://viblo.asia/p/paper-explained-product-quantization-for-approximate-nearest-neighbor-search-yMnKMA6gK7P
-Phân tích phản hồi khách hàng hiệu quả với Machine learning(Vietnamese Sentiment Analysis),https://viblo.asia/p/phan-tich-phan-hoi-khach-hang-hieu-qua-voi-machine-learningvietnamese-sentiment-analysis-Eb85opXOK2G
-Sử dụng MessagePack cho websocket trong Phoenix,https://viblo.asia/p/su-dung-messagepack-cho-websocket-trong-phoenix-Qbq5QA945D8
-Cấu trúc dữ liệu B+Tree và ứng dụng trong bài toán xử lý tập có thứ tự,https://viblo.asia/p/cau-truc-du-lieu-btree-va-ung-dung-trong-bai-toan-xu-ly-tap-co-thu-tu-Ljy5VWQjKra
-UX Best Practices: Thiết kế lại ảnh chụp App cho thật nổi bật (Updated),https://viblo.asia/p/ux-best-practices-thiet-ke-lai-anh-chup-app-cho-that-noi-bat-updated-4dbZN8285YM
-Android WorkManager - Cách thức tiếp cận mới với schedule job !,https://viblo.asia/p/android-workmanager-cach-thuc-tiep-can-moi-voi-schedule-job-WAyK8LkkKxX
-Sử dụng Vuex để quản lý state trong VueJS,https://viblo.asia/p/su-dung-vuex-de-quan-ly-state-trong-vuejs-djeZ1D4mKWz
-5 lỗi bảo mật cơ bản trong Rails app hay gặp trong thực tế,https://viblo.asia/p/5-loi-bao-mat-co-ban-trong-rails-app-hay-gap-trong-thuc-te-gAm5yjGkKdb
-Navigation Architecture Component - Học với hành (P2),https://viblo.asia/p/navigation-architecture-component-hoc-voi-hanh-p2-jvElaWozKkw
-Deploy Laravel sử dụng Elastic Beanstalk,https://viblo.asia/p/deploy-laravel-su-dung-elastic-beanstalk-gAm5yjXVKdb
-P vs. NP và chuyện bảo mật,https://viblo.asia/p/p-vs-np-va-chuyen-bao-mat-RQqKLAwMZ7z
-Tổng quan HTTP/2,https://viblo.asia/p/tong-quan-http2-aWj53OEQ56m
-Tạo Language Model để tự động sinh văn bản tiếng Việt,https://viblo.asia/p/tao-language-model-de-tu-dong-sinh-van-ban-tieng-viet-E375zxEjZGW
-Nghề lập trình 2018,https://viblo.asia/p/nghe-lap-trinh-2018-gAm5yj3OKdb
-Nhận dạng chữ Kanji và Deploy mô hình Deep Learning với Tensorflow JS,https://viblo.asia/p/nhan-dang-chu-kanji-va-deploy-mo-hinh-deep-learning-voi-tensorflow-js-m68Z03q9KkG
-Rails Security Checklist (Part 1),https://viblo.asia/p/rails-security-checklist-part-1-Do754jaLZM6
-Paging Lib - Tối ưu hóa tải dữ liệu lên RecyclerView trong ứng dụng Android !,https://viblo.asia/p/paging-lib-toi-uu-hoa-tai-du-lieu-len-recyclerview-trong-ung-dung-android-YWOZrgERlQ0
-NLP: Khmer Word Segmentation(part I),https://viblo.asia/p/nlp-khmer-word-segmentationpart-i-63vKjRxyK2R
-Putting Together a Golang App III,https://viblo.asia/p/putting-together-a-golang-app-iii-V3m5Wo985O7
-Một vài thủ thuật nhỏ khi sử dụng dòng lệnh Linux,https://viblo.asia/p/mot-vai-thu-thuat-nho-khi-su-dung-dong-lenh-linux-RnB5pX9r5PG
-Using Capybara with RSpec live testing in a browser,https://viblo.asia/p/using-capybara-with-rspec-live-testing-in-a-browser-4P8566P15Y3
-Đo vận tốc nhóm Agile Scrum của bạn,https://viblo.asia/p/do-van-toc-nhom-agile-scrum-cua-ban-E375zwz6KGW
-Digit Recognizer with PyTorch,https://viblo.asia/p/digit-recognizer-with-pytorch-bWrZnPab5xw
-Putting Together a Golang App V,https://viblo.asia/p/putting-together-a-golang-app-v-Do754ppe5M6
-Data visualization trong Machine Learning - Phần 2,https://viblo.asia/p/data-visualization-trong-machine-learning-phan-2-gDVK2RwnKLj
-Build docker image without docker,https://viblo.asia/p/build-docker-image-without-docker-bJzKm7LOl9N
-HTML5 Web Woker: Truyền dữ liệu,https://viblo.asia/p/html5-web-woker-truyen-du-lieu-4P8566gR5Y3
-"Kaggle Challenge Solution: Quick, Draw! Doodle Recognition Challenge",https://viblo.asia/p/kaggle-challenge-solution-quick-draw-doodle-recognition-challenge-07LKX2aJlV4
-Xây dựng hệ thống tìm kiếm nhạc bằng âm thanh với Python và Approximate Nearest Neighbors,https://viblo.asia/p/xay-dung-he-thong-tim-kiem-nhac-bang-am-thanh-voi-python-va-approximate-nearest-neighbors-924lJbXWlPM
-Tuốt tuồn tuột về Stream trong Java8,https://viblo.asia/p/tuot-tuon-tuot-ve-stream-trong-java8-Qbq5QvwwKD8
-HTTP authentication in Ruby on Rails,https://viblo.asia/p/http-authentication-in-ruby-on-rails-yMnKMA4QK7P
-Một transaction trong Ethereum được xảy ra như thế nào ?,https://viblo.asia/p/mot-transaction-trong-ethereum-duoc-xay-ra-nhu-the-nao-maGK7mYDlj2
-React - Introducing Hooks,https://viblo.asia/p/react-introducing-hooks-QpmleERNlrd
-[Question] Làm thế nào để luôn cập nhật kiến thức trong lĩnh vực Machine Learning?,https://viblo.asia/p/question-lam-the-nao-de-luon-cap-nhat-kien-thuc-trong-linh-vuc-machine-learning-maGK7mBxlj2
-HTML 5 Web Worker: những điều cơ bản,https://viblo.asia/p/html-5-web-worker-nhung-dieu-co-ban-LzD5d08Y5jY
-Data visualization trong Machine Learning - Phần 1,https://viblo.asia/p/data-visualization-trong-machine-learning-phan-1-bWrZnp8w5xw
-Tạo SSL Certificate Authority cho HTTPS trên local,https://viblo.asia/p/tao-ssl-certificate-authority-cho-https-tren-local-1VgZvpQY5Aw
-Monitoring Project,https://viblo.asia/p/monitoring-project-QpmleEzNlrd
-Một số câu hỏi phỏng vấn Android bạn nên lưu ý (phần 1),https://viblo.asia/p/mot-so-cau-hoi-phong-van-android-ban-nen-luu-y-phan-1-3Q75wkLQ5Wb
-Lý thuyết về mạng Bayes và ứng dụng vào bài toán lọc thư rác,https://viblo.asia/p/ly-thuyet-ve-mang-bayes-va-ung-dung-vao-bai-toan-loc-thu-rac-07LKXzkelV4
 Tấn công Prototype Pollution trên các ứng dụng NodeJS,https://viblo.asia/p/tan-cong-prototype-pollution-tren-cac-ung-dung-nodejs-oOVlYwLvK8W
 Javascript và những câu hỏi khó - part 2,https://viblo.asia/p/javascript-va-nhung-cau-hoi-kho-part-2-63vKjwjxZ2R
 Feature Engineering (Phần 3): Feature engineering với dữ liệu dạng phân loại (Categorical Data),https://viblo.asia/p/feature-engineering-phan-3-feature-engineering-voi-du-lieu-dang-phan-loai-categorical-data-GrLZDQx2lk0
@@ -199,3 +99,529 @@ Hệ gợi ý bằng thuật toán Sørensen–Dice trong Rails với gem Predic
 Sentence Vectors: Các phương pháp mô hình hóa câu văn lên không gian vector,https://viblo.asia/p/sentence-vectors-cac-phuong-phap-mo-hinh-hoa-cau-van-len-khong-gian-vector-WAyK8dkWKxX
 Docker API,https://viblo.asia/p/docker-api-3P0lPeo85ox
 Bàn về các nguyên lý lập trình,https://viblo.asia/p/ban-ve-cac-nguyen-ly-lap-trinh-E375zXe1ZGW
+"Hệ thống analytic ""sương sương"" từ dữ liệu 30 triệu người dùng",https://viblo.asia/p/he-thong-analytic-suong-suong-tu-du-lieu-30-trieu-nguoi-dung-vyDZOwwRZwj
+Tiếp cận reverse engineering javascript - Case study: Chatwork,https://viblo.asia/p/tiep-can-reverse-engineering-javascript-case-study-chatwork-aWj53661l6m
+Xin Đừng Ngáo AI...,https://viblo.asia/p/xin-dung-ngao-ai-ByEZkOPWZQ0
+Docker image tagging strategy for deploying to production,https://viblo.asia/p/docker-image-tagging-strategy-for-deploying-to-production-924lJW465PM
+Tìm hiểu và xây dựng các hệ thống Chatbot trong thực thế,https://viblo.asia/p/tim-hieu-va-xay-dung-cac-he-thong-chatbot-trong-thuc-the-XL6lA8D4Zek
+[AI Interview]  12  câu hỏi phỏng vấn Deep Learning siêu hay không thể bỏ qua,https://viblo.asia/p/ai-interview-12-cau-hoi-phong-van-deep-learning-sieu-hay-khong-the-bo-qua-LzD5djvEZjY
+Tách lời khỏi nhạc: công cụ không thể thiếu cho các producer phòng ngủ,https://viblo.asia/p/tach-loi-khoi-nhac-cong-cu-khong-the-thieu-cho-cac-producer-phong-ngu-1Je5EXPLlnL
+Một ứng dụng trên Hyperledger Fabric sẽ trông như thế nào ?,https://viblo.asia/p/mot-ung-dung-tren-hyperledger-fabric-se-trong-nhu-the-nao-ORNZqGxN50n
+Con đường mình đang đi để trở thành Fullstack Web Developer,https://viblo.asia/p/con-duong-minh-dang-di-de-tro-thanh-fullstack-web-developer-maGK7VWx5j2
+Hệ điều hành máy tính hoạt động như thế nào? (phần 1),https://viblo.asia/p/he-dieu-hanh-may-tinh-hoat-dong-nhu-the-nao-phan-1-aWj534BbK6m
+Try out JIT compiler with PHP 8.0,https://viblo.asia/p/try-out-jit-compiler-with-php-80-RnB5pwMYlPG
+Ông Toằn Vi Lốc - Ứng dụng Deep Learning tự động tạo kho nhạc beat karaoke siêu to khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-ung-dung-deep-learning-tu-dong-tao-kho-nhac-beat-karaoke-sieu-to-khong-lo-Eb85owPW52G
+"Thực hiện trinh sát - thăm dò email với công cụ buster. Hướng dẫn thăm dò crush, người yêu thời đại 4.0",https://viblo.asia/p/thuc-hien-trinh-sat-tham-do-email-voi-cong-cu-buster-huong-dan-tham-do-crush-nguoi-yeu-thoi-dai-40-Eb85owY852G
+Modern Recommendation Systems in Real Application,https://viblo.asia/p/modern-recommendation-systems-in-real-application-L4x5x11BKBM
+Cơ bản các bước tiếp cận để dịch ngược một game Unity,https://viblo.asia/p/co-ban-cac-buoc-tiep-can-de-dich-nguoc-mot-game-unity-4dbZNqyLKYM
+Bạn đang viết commit message như thế nào?,https://viblo.asia/p/ban-dang-viet-commit-message-nhu-the-nao-gDVK22A0KLj
+"Tham chiếu và ghi chú ngắn về ES6, ESNext",https://viblo.asia/p/tham-chieu-va-ghi-chu-ngan-ve-es6-esnext-Do7544PQ5M6
+Ông Toằn Vi Lốc -  Ứng dụng Deep Learning  tự động sinh ra series audio truyện ma siêu to khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-ung-dung-deep-learning-tu-dong-sinh-ra-series-audio-truyen-ma-sieu-to-khong-lo-bJzKmwqkl9N
+Ethereum hoạt động như thế nào ?,https://viblo.asia/p/ethereum-hoat-dong-nhu-the-nao-6J3ZgwoEZmB
+Original DOM vs. Shadow DOM vs. Virtual DOM,https://viblo.asia/p/original-dom-vs-shadow-dom-vs-virtual-dom-GrLZDQO3lk0
+[Deep Learning] Thiết kế module OCR cho bài toán nhận diện chữ cổ Nhật Bản - Building OCR module for Kuzushiji recognition,https://viblo.asia/p/deep-learning-thiet-ke-module-ocr-cho-bai-toan-nhan-dien-chu-co-nhat-ban-building-ocr-module-for-kuzushiji-recognition-V3m5WPngKO7
+HTTP/3 là gì?,https://viblo.asia/p/http3-la-gi-RQqKLPNMK7z
+Giải trí mùa corona - Ứng dụng Deep Learning tự động chơi game oản tù tì với deeplearn.js,https://viblo.asia/p/giai-tri-mua-corona-ung-dung-deep-learning-tu-dong-choi-game-oan-tu-ti-voi-deeplearnjs-LzD5ddwE5jY
+Rubber Ducking – Kỹ thuật Debug thượng thừa,https://viblo.asia/p/rubber-ducking-ky-thuat-debug-thuong-thua-bJzKmxNO59N
+HTTP Common Method Properties,https://viblo.asia/p/http-common-method-properties-4P856NBB5Y3
+Tạo chatbot trên Chatwork tự động giải đáp thông tin về dịch COVID-2020,https://viblo.asia/p/tao-chatbot-tren-chatwork-tu-dong-giai-dap-thong-tin-ve-dich-covid-2020-924lJq9XZPM
+Nhật ký làm hệ thống getLink vip Fshare trong 48h,https://viblo.asia/p/nhat-ky-lam-he-thong-getlink-vip-fshare-trong-48h-m68Z07v6KkG
+Tạo Extension Get Tất Cả Profile Của Các Members Trong Một Group Facebook Ra File Excel,https://viblo.asia/p/tao-extension-get-tat-ca-profile-cua-cac-members-trong-mot-group-facebook-ra-file-excel-oOVlYLRaZ8W
+Leo thang đặc quyền trong Linux - Linux Privilege Escalation #1: Using SUID bit,https://viblo.asia/p/leo-thang-dac-quyen-trong-linux-linux-privilege-escalation-1-using-suid-bit-QpmlexgrZrd
+MySQL Performance Tuning: A Real World Example,https://viblo.asia/p/mysql-performance-tuning-a-real-world-example-eW65Gbe6lDO
+Giới thiệu Hype Cycle - và câu chuyện chúng ta đang đứng ở đâu trong chu kỳ bong bóng,https://viblo.asia/p/gioi-thieu-hype-cycle-va-cau-chuyen-chung-ta-dang-dung-o-dau-trong-chu-ky-bong-bong-Az45baxqlxY
+Viết một ứng dụng Chat Bot nhắc lịch học chưa bao giờ dễ dàng đến thế với Google Script,https://viblo.asia/p/viet-mot-ung-dung-chat-bot-nhac-lich-hoc-chua-bao-gio-de-dang-den-the-voi-google-script-63vKjkJkZ2R
+Xây dựng biểu đồ phân tích chứng khoán sử dụng Python (P1),https://viblo.asia/p/xay-dung-bieu-do-phan-tich-chung-khoan-su-dung-python-p1-vyDZOaXO5wj
+"Thuật toán xếp hạng bài viết đang hot, thịnh hành như Reddit và Hacker News hoạt động thế nào?",https://viblo.asia/p/thuat-toan-xep-hang-bai-viet-dang-hot-thinh-hanh-nhu-reddit-va-hacker-news-hoat-dong-the-nao-gAm5y8xXldb
+Lí do tôi yêu Docker,https://viblo.asia/p/li-do-toi-yeu-docker-ORNZqxRMK0n
+Cách phân tích độ phức tạp thời gian: Đếm bước thuật toán,https://viblo.asia/p/cach-phan-tich-do-phuc-tap-thoi-gian-dem-buoc-thuat-toan-924lJpAWKPM
+Cách mình từng ngày cải thiện kĩ năng code Javascript,https://viblo.asia/p/cach-minh-tung-ngay-cai-thien-ki-nang-code-javascript-aWj5367ol6m
+Ông Toằn Vi Lốc - Bí kíp võ công để tạo mô hình siêu siêu nhỏ li ti với độ chính xác khổng lồ,https://viblo.asia/p/ong-toan-vi-loc-bi-kip-vo-cong-de-tao-mo-hinh-sieu-sieu-nho-li-ti-voi-do-chinh-xac-khong-lo-Qpmleon9Krd
+Làm thế nào để dùng một model cho nhiều công chuyện?,https://viblo.asia/p/lam-the-nao-de-dung-mot-model-cho-nhieu-cong-chuyen-1VgZv40O5Aw
+Tự đo chỉ số ô nhiễm không khí tại nhà với sensor và Raspberry Pi,https://viblo.asia/p/tu-do-chi-so-o-nhiem-khong-khi-tai-nha-voi-sensor-va-raspberry-pi-YWOZrBBvZQ0
+JavaScript: Popup,https://viblo.asia/p/javascript-popup-gAm5yXxXldb
+Xây dựng giao diện Android với FlexBox,https://viblo.asia/p/xay-dung-giao-dien-android-voi-flexbox-maGK7kgbKj2
+"So sánh các nền tảng tìm kiếm mã nguồn mở  Elasticsearch, SOLR và SPHINX",https://viblo.asia/p/so-sanh-cac-nen-tang-tim-kiem-ma-nguon-mo-elasticsearch-solr-va-sphinx-djeZ1b8mlWz
+Memory Leak là gì? Một số cách để tránh Memory Leak,https://viblo.asia/p/memory-leak-la-gi-mot-so-cach-de-tranh-memory-leak-924lJdYbKPM
+Tự tìm niềm vui qua ứng dụng hát karaoke bằng HTML5 Audio,https://viblo.asia/p/tu-tim-niem-vui-qua-ung-dung-hat-karaoke-bang-html5-audio-924lJE9aZPM
+JavaScript: Iterator và Generator,https://viblo.asia/p/javascript-iterator-va-generator-07LKXMQ4ZV4
+[Handbook CV with DL - Phần 2] Bài toán phân loại hình ảnh - Image Classification với Tensorflow và Tensorboard,https://viblo.asia/p/handbook-cv-with-dl-phan-2-bai-toan-phan-loai-hinh-anh-image-classification-voi-tensorflow-va-tensorboard-1Je5EJa1KnL
+Mobile First trong Web Responsive Design,https://viblo.asia/p/mobile-first-trong-web-responsive-design-XL6lAN9R5ek
+Học cách Twitter ngăn người dùng View Page Source (How Twitter prevents user from View Page Source),https://viblo.asia/p/hoc-cach-twitter-ngan-nguoi-dung-view-page-source-how-twitter-prevents-user-from-view-page-source-gDVK29m25Lj
+"Giới thiệu công cụ VisBug, chính chủ Google làm ra giúp cuộc đời FrontEnd Designer của bạn bớt khổ cực (cập nhật v1.1)",https://viblo.asia/p/gioi-thieu-cong-cu-visbug-chinh-chu-google-lam-ra-giup-cuoc-doi-frontend-designer-cua-ban-bot-kho-cuc-cap-nhat-v11-YWOZrz8pZQ0
+Luận về password hashing,https://viblo.asia/p/luan-ve-password-hashing-yMnKMOJzl7P
+Zero Knowledge Proof và privacy trên Blockchain - Part 1,https://viblo.asia/p/zero-knowledge-proof-va-privacy-tren-blockchain-part-1-Do754pq05M6
+Hyperledger - bắt đầu với Fabric hay Composer?,https://viblo.asia/p/hyperledger-bat-dau-voi-fabric-hay-composer-Ljy5VM0klra
+"3 hiểu lầm của ActiveRecord làm chậm Rails: Count, Where and Present",https://viblo.asia/p/3-hieu-lam-cua-activerecord-lam-cham-rails-count-where-and-present-4P85630GKY3
+[Laravel]Hỏi đáp về Laravel Phần 1,https://viblo.asia/p/laravelhoi-dap-ve-laravel-phan-1-1VgZva7MKAw
+[Handbook CV with DL - Phần 1] Các khái niệm cơ bản trong Computer Vision và Deep Learning,https://viblo.asia/p/handbook-cv-with-dl-phan-1-cac-khai-niem-co-ban-trong-computer-vision-va-deep-learning-maGK7p2MZj2
+CORS,https://viblo.asia/p/cors-Qpmle2er5rd
+"[Machine Learning] Attention, Attention, Attention, ...!",https://viblo.asia/p/machine-learning-attention-attention-attention-eW65GPJYKDO
+Ứng dụng AI tự động chuyển màn hình code khi phát hiện sếp đến gần,https://viblo.asia/p/ung-dung-ai-tu-dong-chuyen-man-hinh-code-khi-phat-hien-sep-den-gan-naQZRJMAZvx
+Thử làm ứng dụng tô màu ảnh với mạng Deep Learning,https://viblo.asia/p/thu-lam-ung-dung-to-mau-anh-voi-mang-deep-learning-1Je5EJQjKnL
+Using Capybara with RSpec live testing in a browser,https://viblo.asia/p/using-capybara-with-rspec-live-testing-in-a-browser-4P8566P15Y3
+Đo vận tốc nhóm Agile Scrum của bạn,https://viblo.asia/p/do-van-toc-nhom-agile-scrum-cua-ban-E375zwz6KGW
+Digit Recognizer with PyTorch,https://viblo.asia/p/digit-recognizer-with-pytorch-bWrZnPab5xw
+Putting Together a Golang App V,https://viblo.asia/p/putting-together-a-golang-app-v-Do754ppe5M6
+Data visualization trong Machine Learning - Phần 2,https://viblo.asia/p/data-visualization-trong-machine-learning-phan-2-gDVK2RwnKLj
+Build docker image without docker,https://viblo.asia/p/build-docker-image-without-docker-bJzKm7LOl9N
+HTML5 Web Woker: Truyền dữ liệu,https://viblo.asia/p/html5-web-woker-truyen-du-lieu-4P8566gR5Y3
+"Kaggle Challenge Solution: Quick, Draw! Doodle Recognition Challenge",https://viblo.asia/p/kaggle-challenge-solution-quick-draw-doodle-recognition-challenge-07LKX2aJlV4
+Xây dựng hệ thống tìm kiếm nhạc bằng âm thanh với Python và Approximate Nearest Neighbors,https://viblo.asia/p/xay-dung-he-thong-tim-kiem-nhac-bang-am-thanh-voi-python-va-approximate-nearest-neighbors-924lJbXWlPM
+Tuốt tuồn tuột về Stream trong Java8,https://viblo.asia/p/tuot-tuon-tuot-ve-stream-trong-java8-Qbq5QvwwKD8
+HTTP authentication in Ruby on Rails,https://viblo.asia/p/http-authentication-in-ruby-on-rails-yMnKMA4QK7P
+Một transaction trong Ethereum được xảy ra như thế nào ?,https://viblo.asia/p/mot-transaction-trong-ethereum-duoc-xay-ra-nhu-the-nao-maGK7mYDlj2
+React - Introducing Hooks,https://viblo.asia/p/react-introducing-hooks-QpmleERNlrd
+[Question] Làm thế nào để luôn cập nhật kiến thức trong lĩnh vực Machine Learning?,https://viblo.asia/p/question-lam-the-nao-de-luon-cap-nhat-kien-thuc-trong-linh-vuc-machine-learning-maGK7mBxlj2
+HTML 5 Web Worker: những điều cơ bản,https://viblo.asia/p/html-5-web-worker-nhung-dieu-co-ban-LzD5d08Y5jY
+Data visualization trong Machine Learning - Phần 1,https://viblo.asia/p/data-visualization-trong-machine-learning-phan-1-bWrZnp8w5xw
+Tạo SSL Certificate Authority cho HTTPS trên local,https://viblo.asia/p/tao-ssl-certificate-authority-cho-https-tren-local-1VgZvpQY5Aw
+Monitoring Project,https://viblo.asia/p/monitoring-project-QpmleEzNlrd
+Một số câu hỏi phỏng vấn Android bạn nên lưu ý (phần 1),https://viblo.asia/p/mot-so-cau-hoi-phong-van-android-ban-nen-luu-y-phan-1-3Q75wkLQ5Wb
+Lý thuyết về mạng Bayes và ứng dụng vào bài toán lọc thư rác,https://viblo.asia/p/ly-thuyet-ve-mang-bayes-va-ung-dung-vao-bai-toan-loc-thu-rac-07LKXzkelV4
+"Authentication with Google OAuth using Nodejs, Passportjs, MongoDB",https://viblo.asia/p/authentication-with-google-oauth-using-nodejs-passportjs-mongodb-gAm5yqAV5db
+Tổng quan về Traefik,https://viblo.asia/p/tong-quan-ve-traefik-XL6lAA8Dlek
+Little endian vs. Big endian,https://viblo.asia/p/little-endian-vs-big-endian-E375z0pWZGW
+Tìm hiểu về resume download,https://viblo.asia/p/tim-hieu-ve-resume-download-Qbq5QL6RlD8
+Hướng dẫn Tensorflow cơ bản - Phần 6 - Softmax Classification MNIST,https://viblo.asia/p/huong-dan-tensorflow-co-ban-phan-6-softmax-classification-mnist-4P856jDW5Y3
+PageRank của Google,https://viblo.asia/p/pagerank-cua-google-RQqKLvVOl7z
+Hướng dẫn Tensorflow cơ bản - Phần 5 - Binary Classification MNIST,https://viblo.asia/p/huong-dan-tensorflow-co-ban-phan-5-binary-classification-mnist-4P856jr35Y3
+Xây dựng chương trình tóm tắt văn bản (tiếng Việt) đơn giản với Machine Learning,https://viblo.asia/p/xay-dung-chuong-trinh-tom-tat-van-ban-tieng-viet-don-gian-voi-machine-learning-YWOZrgAwlQ0
+Lập lịch không dùng crontab cho Rails app trên Heroku,https://viblo.asia/p/lap-lich-khong-dung-crontab-cho-rails-app-tren-heroku-07LKXNQplV4
+Blockchain - hacking smart contract with Ethernaut CTF (Part 4),https://viblo.asia/p/blockchain-hacking-smart-contract-with-ethernaut-ctf-part-4-gGJ59j7rKX2
+NLP: Khmer Word Segmentation,https://viblo.asia/p/nlp-khmer-word-segmentation-YWOZrgNNlQ0
+Hướng dẫn tự học Tensorflow Cơ bản - Bài 4 - Housing Data Processing,https://viblo.asia/p/huong-dan-tu-hoc-tensorflow-co-ban-bai-4-housing-data-processing-3P0lPm3P5ox
+5 Best Practices về cấu trúc khi làm việc với React,https://viblo.asia/p/5-best-practices-ve-cau-truc-khi-lam-viec-voi-react-maGK7jGb5j2
+Các giải pháp tạo file PDF trong Ruby on Rails,https://viblo.asia/p/cac-giai-phap-tao-file-pdf-trong-ruby-on-rails-3P0lPz8GKox
+"JavaScript: async/await, những keyword giúp chúng ta code bất đồng bộ dễ hơn bao giờ hết",https://viblo.asia/p/javascript-asyncawait-nhung-keyword-giup-chung-ta-code-bat-dong-bo-de-hon-bao-gio-het-Qbq5QLxRlD8
+Stack Overflow & Buffer Overflow: Introduction and Exploitation,https://viblo.asia/p/stack-overflow-buffer-overflow-introduction-and-exploitation-bWrZngOmlxw
+Php với Cassandra,https://viblo.asia/p/php-voi-cassandra-6J3ZgB3PKmB
+Hướng dẫn tự học Tensorflow Cơ bản - Bài 3 - Eager Executing trong Linear Regression,https://viblo.asia/p/huong-dan-tu-hoc-tensorflow-co-ban-bai-3-eager-executing-trong-linear-regression-4P856jnL5Y3
+Storage trong Ethereum smart contract,https://viblo.asia/p/storage-trong-ethereum-smart-contract-OeVKByMr5kW
+Web Architecture 101,https://viblo.asia/p/web-architecture-101-07LKXNB8lV4
+[Paper Explained] Product Quantization for Approximate Nearest Neighbor Search,https://viblo.asia/p/paper-explained-product-quantization-for-approximate-nearest-neighbor-search-yMnKMA6gK7P
+Phân tích phản hồi khách hàng hiệu quả với Machine learning(Vietnamese Sentiment Analysis),https://viblo.asia/p/phan-tich-phan-hoi-khach-hang-hieu-qua-voi-machine-learningvietnamese-sentiment-analysis-Eb85opXOK2G
+Sử dụng MessagePack cho websocket trong Phoenix,https://viblo.asia/p/su-dung-messagepack-cho-websocket-trong-phoenix-Qbq5QA945D8
+Cấu trúc dữ liệu B+Tree và ứng dụng trong bài toán xử lý tập có thứ tự,https://viblo.asia/p/cau-truc-du-lieu-btree-va-ung-dung-trong-bai-toan-xu-ly-tap-co-thu-tu-Ljy5VWQjKra
+UX Best Practices: Thiết kế lại ảnh chụp App cho thật nổi bật (Updated),https://viblo.asia/p/ux-best-practices-thiet-ke-lai-anh-chup-app-cho-that-noi-bat-updated-4dbZN8285YM
+Android WorkManager - Cách thức tiếp cận mới với schedule job !,https://viblo.asia/p/android-workmanager-cach-thuc-tiep-can-moi-voi-schedule-job-WAyK8LkkKxX
+Sử dụng Vuex để quản lý state trong VueJS,https://viblo.asia/p/su-dung-vuex-de-quan-ly-state-trong-vuejs-djeZ1D4mKWz
+5 lỗi bảo mật cơ bản trong Rails app hay gặp trong thực tế,https://viblo.asia/p/5-loi-bao-mat-co-ban-trong-rails-app-hay-gap-trong-thuc-te-gAm5yjGkKdb
+Navigation Architecture Component - Học với hành (P2),https://viblo.asia/p/navigation-architecture-component-hoc-voi-hanh-p2-jvElaWozKkw
+Deploy Laravel sử dụng Elastic Beanstalk,https://viblo.asia/p/deploy-laravel-su-dung-elastic-beanstalk-gAm5yjXVKdb
+P vs. NP và chuyện bảo mật,https://viblo.asia/p/p-vs-np-va-chuyen-bao-mat-RQqKLAwMZ7z
+Tổng quan HTTP/2,https://viblo.asia/p/tong-quan-http2-aWj53OEQ56m
+Tạo Language Model để tự động sinh văn bản tiếng Việt,https://viblo.asia/p/tao-language-model-de-tu-dong-sinh-van-ban-tieng-viet-E375zxEjZGW
+Nghề lập trình 2018,https://viblo.asia/p/nghe-lap-trinh-2018-gAm5yj3OKdb
+Nhận dạng chữ Kanji và Deploy mô hình Deep Learning với Tensorflow JS,https://viblo.asia/p/nhan-dang-chu-kanji-va-deploy-mo-hinh-deep-learning-voi-tensorflow-js-m68Z03q9KkG
+Rails Security Checklist (Part 1),https://viblo.asia/p/rails-security-checklist-part-1-Do754jaLZM6
+Paging Lib - Tối ưu hóa tải dữ liệu lên RecyclerView trong ứng dụng Android !,https://viblo.asia/p/paging-lib-toi-uu-hoa-tai-du-lieu-len-recyclerview-trong-ung-dung-android-YWOZrgERlQ0
+NLP: Khmer Word Segmentation(part I),https://viblo.asia/p/nlp-khmer-word-segmentationpart-i-63vKjRxyK2R
+Putting Together a Golang App III,https://viblo.asia/p/putting-together-a-golang-app-iii-V3m5Wo985O7
+Một vài thủ thuật nhỏ khi sử dụng dòng lệnh Linux,https://viblo.asia/p/mot-vai-thu-thuat-nho-khi-su-dung-dong-lenh-linux-RnB5pX9r5PG
+"Chuyện phỏng vấn hay là về bài toán format số tiền. [Update ngày, 9/8]",https://viblo.asia/p/chuyen-phong-van-hay-la-ve-bai-toan-format-so-tien-update-ngay-98-Az45bxmwZxY
+Hướng dẫn tự học Tensorflow cơ bản -  Phần 2 - Linear Regression,https://viblo.asia/p/huong-dan-tu-hoc-tensorflow-co-ban-phan-2-linear-regression-1VgZvEamKAw
+Hướng dẫn tự học Tensorflow Cơ bản Phần 1 - Basic data types and Operators,https://viblo.asia/p/huong-dan-tu-hoc-tensorflow-co-ban-phan-1-basic-data-types-and-operators-4P856j3O5Y3
+Xây dựng một hệ thống gợi ý Collaborative Filtering dễ dàng như thế nào?,https://viblo.asia/p/xay-dung-mot-he-thong-goi-y-collaborative-filtering-de-dang-nhu-the-nao-GrLZDXv3Zk0
+[For Newbie] Những kiến thức không thể thiếu nếu muốn sử dụng RSpec trong Rails app,https://viblo.asia/p/for-newbie-nhung-kien-thuc-khong-the-thieu-neu-muon-su-dung-rspec-trong-rails-app-naQZRbJAZvx
+Linux bắt nguồn từ đâu ?,https://viblo.asia/p/linux-bat-nguon-tu-dau-6J3ZgB9LKmB
+Tạo secret key mã hoá data dựa trên Elliptic Curve Cryptography,https://viblo.asia/p/tao-secret-key-ma-hoa-data-dua-tren-elliptic-curve-cryptography-07LKXN4rlV4
+Continue With Machine Learning - Building Recommendation System,https://viblo.asia/p/continue-with-machine-learning-building-recommendation-system-V3m5WByQlO7
+[Write-up] meepwn contract  - MEEPWN CTF Qualification Round 2018,https://viblo.asia/p/write-up-meepwn-contract-meepwn-ctf-qualification-round-2018-Qbq5QLAmlD8
+Một số tiện ích của Firefox hỗ trợ kiểm thử phần mềm,https://viblo.asia/p/mot-so-tien-ich-cua-firefox-ho-tro-kiem-thu-phan-mem-07LKXNDPlV4
+Phần 2. Các cách export kết quả sau khi kiểm thử tự động  sử dụng Python,https://viblo.asia/p/phan-2-cac-cach-export-ket-qua-sau-khi-kiem-thu-tu-dong-su-dung-python-vyDZOP9Glwj
+"Tìm hiểu về HTTP Cache Manger, HTTP Cookie Manager, HTTP Authorization Manager trong JMeter",https://viblo.asia/p/tim-hieu-ve-http-cache-manger-http-cookie-manager-http-authorization-manager-trong-jmeter-4dbZN70ylYM
+Putting Together a Golang App Part I,https://viblo.asia/p/putting-together-a-golang-app-part-i-Qbq5QLJXlD8
+Hệ thống truy vấn hình ảnh Thời trang sử dụng Deep Learning trên nền tảng Mobile và Cloud Computing,https://viblo.asia/p/he-thong-truy-van-hinh-anh-thoi-trang-su-dung-deep-learning-tren-nen-tang-mobile-va-cloud-computing-Qpmle9Ymlrd
+A thing or two about redis,https://viblo.asia/p/a-thing-or-two-about-redis-maGK7M2Olj2
+Phần 5: ElasticSearch: Modeling data and handling Relationships,https://viblo.asia/p/phan-5-elasticsearch-modeling-data-and-handling-relationships-V3m5W2qQlO7
+OOP: Thế nào là một object tốt?,https://viblo.asia/p/oop-the-nao-la-mot-object-tot-gAm5ypMwldb
+Quản lý toolbar trong một ứng dụng sử dụng Fragment Navigation Pattern như thế nào cho đỡ stress?,https://viblo.asia/p/quan-ly-toolbar-trong-mot-ung-dung-su-dung-fragment-navigation-pattern-nhu-the-nao-cho-do-stress-eW65Gwy65DO
+Machine Learning với Javascript.,https://viblo.asia/p/machine-learning-voi-javascript-1VgZvwvmlAw
+Combine Clean Architecture and Google Architecture Component - Best practice for mobile architecture building,https://viblo.asia/p/combine-clean-architecture-and-google-architecture-component-best-practice-for-mobile-architecture-building-ByEZk94Y5Q0
+Laravel File Uploads - Overengineering?,https://viblo.asia/p/laravel-file-uploads-overengineering-1VgZvNA7ZAw
+12 cách tối ưu hoá website - thời đại của mobile-first,https://viblo.asia/p/12-cach-toi-uu-hoa-website-thoi-dai-cua-mobile-first-gGJ59gLDZX2
+Blockchain - hacking smart contract with Ethernaut CTF (Part 1),https://viblo.asia/p/blockchain-hacking-smart-contract-with-ethernaut-ctf-part-1-bWrZnN8pZxw
+Vim: Buffer/Window/Tab (Part 1),https://viblo.asia/p/vim-bufferwindowtab-part-1-1Je5EEp15nL
+Learn sed,https://viblo.asia/p/learn-sed-jvElaE96lkw
+Progressive Web App: Xoá nhoà khoảng cách giữa web và mobile apps,https://viblo.asia/p/progressive-web-app-xoa-nhoa-khoang-cach-giua-web-va-mobile-apps-924lJY2mZPM
+AWS EC2 Managed Host Using Docker Machine,https://viblo.asia/p/aws-ec2-managed-host-using-docker-machine-WAyK8kDW5xX
+Deep Learning: Faceswap model,https://viblo.asia/p/deep-learning-faceswap-model-4P8560vWZY3
+Học Regular Expression và cuộc đời bạn sẽ bớt khổ (Updated v2.2),https://viblo.asia/p/hoc-regular-expression-va-cuoc-doi-ban-se-bot-kho-updated-v22-Az45bnoO5xY
+"PHP Autoloading, PSR4 and Composer",https://viblo.asia/p/php-autoloading-psr4-and-composer-V3m5Wy0QZO7
+"Giới thiệu về Deep Learning, Deep Learning hoạt động như thế nào?",https://viblo.asia/p/gioi-thieu-ve-deep-learning-deep-learning-hoat-dong-nhu-the-nao-3Q75w2nDlWb
+Web Push Notification,https://viblo.asia/p/web-push-notification-Qbq5QW1EZD8
+PHP Unit Test 401: Tạo báo cáo Coverage Reports và chỉ số CRAP,https://viblo.asia/p/php-unit-test-401-tao-bao-cao-coverage-reports-va-chi-so-crap-ByEZkWXWZQ0
+Phần 1: Tự tạo ra một công nghệ Blockchain của riêng mình,https://viblo.asia/p/phan-1-tu-tao-ra-mot-cong-nghe-blockchain-cua-rieng-minh-4P856031ZY3
+Hướng dẫn sử dụng GPU trên Google Collaboratory,https://viblo.asia/p/huong-dan-su-dung-gpu-tren-google-collaboratory-Qbq5QWpRZD8
+"Threads, Processes, Parallel Programing in Ruby (part3)",https://viblo.asia/p/threads-processes-parallel-programing-in-ruby-part3-1VgZvNa9ZAw
+Giải thích về Javascript thời hiện đại cho khủng long,https://viblo.asia/p/giai-thich-ve-javascript-thoi-hien-dai-cho-khung-long-Eb85oBM2l2G
+"[XP Series] Phần 1: Các ""Giá trị cốt lõi"" trong Extreme Programming (XP)",https://viblo.asia/p/xp-series-phan-1-cac-gia-tri-cot-loi-trong-extreme-programming-xp-Eb85oBX6l2G
+AWS Directory Service,https://viblo.asia/p/aws-directory-service-oOVlY1Erl8W
+Scopes hay Class method,https://viblo.asia/p/scopes-hay-class-method-1Je5EEYw5nL
+From programming language to software architecture,https://viblo.asia/p/from-programming-language-to-software-architecture-bJzKm0aE59N
+JavaScript: code bất đồng bộ dễ dàng hơn với Promise,https://viblo.asia/p/javascript-code-bat-dong-bo-de-dang-hon-voi-promise-XL6lAAp4lek
+React Sketch.app điểm hòa trộn giữa code và design,https://viblo.asia/p/react-sketchapp-diem-hoa-tron-giua-code-va-design-Qpmle9eMlrd
+Thêm Fonts và FontIcons vào ứng dụng React Native,https://viblo.asia/p/them-fonts-va-fonticons-vao-ung-dung-react-native-1VgZvwD2lAw
+Tối ưu lại code Laravel  của chính mình,https://viblo.asia/p/toi-uu-lai-code-laravel-cua-chinh-minh-eW65GwGJ5DO
+Quy tắc 333 hay là phiếm đàm về chuyện phỏng vấn Senior Developer,https://viblo.asia/p/quy-tac-333-hay-la-phiem-dam-ve-chuyen-phong-van-senior-developer-GrLZDwDBKk0
+Hiểu rõ hơn về Git qua bài toán xây dựng kho hàng,https://viblo.asia/p/hieu-ro-hon-ve-git-qua-bai-toan-xay-dung-kho-hang-V3m5W1LEZO7
+HTML Questions - Front End Interview Handbook,https://viblo.asia/p/html-questions-front-end-interview-handbook-Do754MbeKM6
+Từ PHP nhảy sang code Ruby thì có gì vui?!,https://viblo.asia/p/tu-php-nhay-sang-code-ruby-thi-co-gi-vui-ByEZk9y25Q0
+Javascript - Hỏi đáp về javascript [Phần 2],https://viblo.asia/p/javascript-hoi-dap-ve-javascript-phan-2-3Q75w2jQlWb
+Auto deploy Node.js app lên server qua SSH với GitLab CI/CD và PM2,https://viblo.asia/p/auto-deploy-nodejs-app-len-server-qua-ssh-voi-gitlab-cicd-va-pm2-1Je5Ed44lnL
+Bài toán phân quyền vấn đề muôn thuở.,https://viblo.asia/p/bai-toan-phan-quyen-van-de-muon-thuo-1VgZvw9mlAw
+Hội nghị Developer Circles Hanoi F8 Meetup by Facebook có gì?,https://viblo.asia/p/hoi-nghi-developer-circles-hanoi-f8-meetup-by-facebook-co-gi-OeVKBRYdKkW
+Bài toán các vị tướng Byzantine và ứng dụng trong Blockchain,https://viblo.asia/p/bai-toan-cac-vi-tuong-byzantine-va-ung-dung-trong-blockchain-jvEla4vmZkw
+Một số cách lưu secrets key trong android,https://viblo.asia/p/mot-so-cach-luu-secrets-key-trong-android-naQZRwVXlvx
+Do you know everything in Java? Why we should not have plan to migrate to Kotlin now?,https://viblo.asia/p/do-you-know-everything-in-java-why-we-should-not-have-plan-to-migrate-to-kotlin-now-vyDZOWLOZwj
+"[DeepLearning from scratch] Xử lý, xây dựng deep learning model với tập dữ liệu.",https://viblo.asia/p/deeplearning-from-scratch-xu-ly-xay-dung-deep-learning-model-voi-tap-du-lieu-aWj538PPK6m
+Javascript - Hỏi đáp về javascript [Phần 1],https://viblo.asia/p/javascript-hoi-dap-ve-javascript-phan-1-LzD5dDyw5jY
+Các kiểu tổ chức các service của một ứng dụng Serverless,https://viblo.asia/p/cac-kieu-to-chuc-cac-service-cua-mot-ung-dung-serverless-gDVK28g2lLj
+Angular 4 with Rails,https://viblo.asia/p/angular-4-with-rails-3P0lPyV85ox
+Welcome to HTTP/2,https://viblo.asia/p/welcome-to-http2-djeZ1x4mKWz
+"Giải quyết vấn đề khi caching resource, CDN caching",https://viblo.asia/p/giai-quyet-van-de-khi-caching-resource-cdn-caching-m68Z0OVQKkG
+Safe Area Layout Guide iOS 11 (Part 2),https://viblo.asia/p/safe-area-layout-guide-ios-11-part-2-bJzKmkGBl9N
+Bảo mật với spring,https://viblo.asia/p/bao-mat-voi-spring-3Q75wWgJ5Wb
+Postman - Công cụ tuyệt vời để làm việc với API và tạo API Documents,https://viblo.asia/p/postman-cong-cu-tuyet-voi-de-lam-viec-voi-api-va-tao-api-documents-OeVKBoxMZkW
+Tập áp dụng TDD cho dự án sử dụng VueJS,https://viblo.asia/p/tap-ap-dung-tdd-cho-du-an-su-dung-vuejs-07LKXO2p5V4
+Thay đổi cách viết Tiếng Việt - là dân công nghệ thì không phải sợ,https://viblo.asia/p/thay-doi-cach-viet-tieng-viet-la-dan-cong-nghe-thi-khong-phai-so-ORNZqPaNK0n
+How to test your react redux application,https://viblo.asia/p/how-to-test-your-react-redux-application-924lJrDNlPM
+PM series - Project Manager: Bạn là người thế nào?,https://viblo.asia/p/pm-series-project-manager-ban-la-nguoi-the-nao-bJzKmkkXl9N
+Khoảng cách Levenshtein và fuzzy query trong Elasticsearch,https://viblo.asia/p/khoang-cach-levenshtein-va-fuzzy-query-trong-elasticsearch-jvElaOXAKkw
+Giải bài toán thay đổi Web UI theo thời gian thực với firebase [OutDated],https://viblo.asia/p/giai-bai-toan-thay-doi-web-ui-theo-thoi-gian-thuc-voi-firebase-outdated-Qbq5QgqzZD8
+SSH hoạt động như thế nào?,https://viblo.asia/p/ssh-hoat-dong-nhu-the-nao-Eb85oJEjl2G
+Hierarchical Dependency Injectors trong Angular 4,https://viblo.asia/p/hierarchical-dependency-injectors-trong-angular-4-bWrZnvbnZxw
+Security với single-page web app.,https://viblo.asia/p/security-voi-single-page-web-app-vyDZOXyalwj
+"Bitcoin: The Hype, The Myth, and The Truth - Part 1",https://viblo.asia/p/bitcoin-the-hype-the-myth-and-the-truth-part-1-OeVKBo7JZkW
+Query DSL trong Elasticsearch,https://viblo.asia/p/query-dsl-trong-elasticsearch-Eb85oJq2l2G
+Vanishing & Exploding Gradients Problems in Deep Neural Networks (Part 2),https://viblo.asia/p/vanishing-exploding-gradients-problems-in-deep-neural-networks-part-2-ORNZqPEeK0n
+"Ứng dụng ""tìm quanh đây"" với MongoDB - Geospatial Queries, Google Map API",https://viblo.asia/p/ung-dung-tim-quanh-day-voi-mongodb-geospatial-queries-google-map-api-63vKjn4yK2R
+"""this"" trong JavaScript",https://viblo.asia/p/this-trong-javascript-gAm5ywe8Zdb
+AWS Overview - Một số thuật ngữ,https://viblo.asia/p/aws-overview-mot-so-thuat-ngu-E375zyG6lGW
+Xây dựng hệ thống Ruby on Rails trên môi trường Docker,https://viblo.asia/p/xay-dung-he-thong-ruby-on-rails-tren-moi-truong-docker-RnB5pe9wKPG
+Ứng dụng Machine Learning để phân loại spam SMS,https://viblo.asia/p/ung-dung-machine-learning-de-phan-loai-spam-sms-07LKXwg85V4
+"Hướng dẫn Deploy ứng dụng Ruby on Rails lên Server AWS EC2 Sử dụng Gem Capistrano, Puma và Nginx",https://viblo.asia/p/huong-dan-deploy-ung-dung-ruby-on-rails-len-server-aws-ec2-su-dung-gem-capistrano-puma-va-nginx-Eb85oXDWK2G
+gRPC và ứng dụng nó trong microservices,https://viblo.asia/p/grpc-va-ung-dung-no-trong-microservices-ORNZqo8N50n
+Phía sau một câu chuyện thiếu nhi và bài học của người làm sản phẩm,https://viblo.asia/p/phia-sau-mot-cau-chuyen-thieu-nhi-va-bai-hoc-cua-nguoi-lam-san-pham-maGK7z2A5j2
+[Góc chia sẻ] Tổng hợp những ứng dụng Android đi kèm mã nguồn để tham khảo nâng cao kỹ năng code!,https://viblo.asia/p/goc-chia-se-tong-hop-nhung-ung-dung-android-di-kem-ma-nguon-de-tham-khao-nang-cao-ky-nang-code-Ljy5VrJk5ra
+Quản lý log ứng dụng với GrayLog 2,https://viblo.asia/p/quan-ly-log-ung-dung-voi-graylog-2-924lJOGY5PM
+Middleware trong Redux là gì?,https://viblo.asia/p/middleware-trong-redux-la-gi-XL6lAwpBKek
+[Data Analysis] Phân tích dữ liệu xổ số miền Bắc,https://viblo.asia/p/data-analysis-phan-tich-du-lieu-xo-so-mien-bac-3P0lPvpbKox
+12 thủ thuật hữu ích trong JavaScript,https://viblo.asia/p/12-thu-thuat-huu-ich-trong-javascript-3P0lPvVbKox
+Đo hiệu năng giữa các PHP Framework phổ biến (phần 1),https://viblo.asia/p/do-hieu-nang-giua-cac-php-framework-pho-bien-phan-1-aWj53XoeK6m
+"[Nodejs] Dùng selenium, cheerio để crawl dữ liệu",https://viblo.asia/p/nodejs-dung-selenium-cheerio-de-crawl-du-lieu-4dbZNDGq5YM
+Laravel Service Container in Depth & Tips to Customize Your Application,https://viblo.asia/p/laravel-service-container-in-depth-tips-to-customize-your-application-RQqKLnqNl7z
+Luyện kỹ năng code Python với Python Challenge,https://viblo.asia/p/luyen-ky-nang-code-python-voi-python-challenge-3P0lPvP8Kox
+Data Analysis - Tại sao nhân viên bỏ việc,https://viblo.asia/p/data-analysis-tai-sao-nhan-vien-bo-viec-ByEZkW6gZQ0
+[Elasticsearch] Phân tích và tìm kiếm dữ liệu tiếng Việt,https://viblo.asia/p/elasticsearch-phan-tich-va-tim-kiem-du-lieu-tieng-viet-3P0lPveoKox
+"Arel, the SQL manager for Ruby (path 1)",https://viblo.asia/p/arel-the-sql-manager-for-ruby-path-1-L4x5xyQwKBM
+Viết scope bằng arel,https://viblo.asia/p/viet-scope-bang-arel-7prv31LkMKod
+Chỉ cần tốn 10s thậm chí ít hơn để lấy API Key?,https://viblo.asia/p/chi-can-ton-10s-tham-chi-it-hon-de-lay-api-key-924lJOEm5PM
+Review UX cho ứng dụng đọc sách bản quyền Waka của VegaCorp,https://viblo.asia/p/review-ux-cho-ung-dung-doc-sach-ban-quyen-waka-cua-vegacorp-4dbZND1n5YM
+7 cách để phòng tránh fat activerecord model,https://viblo.asia/p/7-cach-de-phong-tranh-fat-activerecord-model-jvElaEOxlkw
+Write Linux Init Script,https://viblo.asia/p/write-linux-init-script-bJzKmk9Bl9N
+Một vài hiểu nhầm khi mới học Machine Learning,https://viblo.asia/p/mot-vai-hieu-nham-khi-moi-hoc-machine-learning-4dbZNoDnlYM
+Ansible Fundamentals - Ad-hoc Commands,https://viblo.asia/p/ansible-fundamentals-ad-hoc-commands-bJzKmk16l9N
+React Lifecycle Methods,https://viblo.asia/p/react-lifecycle-methods-yMnKMyqzK7P
+Express.js Best Security Paractices,https://viblo.asia/p/expressjs-best-security-paractices-maGK78R9Zj2
+Android - Speech Recognition,https://viblo.asia/p/android-speech-recognition-1Je5E8bAlnL
+Lập trình hướng đối tượng cùng JavaScript,https://viblo.asia/p/lap-trinh-huong-doi-tuong-cung-javascript-gAm5y9dV5db
+Machine Learning - Thử làm Nhà Thiên Văn Dự Báo Thời Tiết,https://viblo.asia/p/machine-learning-thu-lam-nha-thien-van-du-bao-thoi-tiet-djeZ1xYmKWz
+Acloud.guru: Why Amazon DynamoDB isn’t for everyone,https://viblo.asia/p/acloudguru-why-amazon-dynamodb-isnt-for-everyone-1VgZv9L2KAw
+Build Face ID for Web with Keras,https://viblo.asia/p/build-face-id-for-web-with-keras-Do754WmVlM6
+Connecting Redux with Angular 4+,https://viblo.asia/p/connecting-redux-with-angular-4-eW65GoXa5DO
+PHP Unit Test 101: Giới thiệu về PHPUnit,https://viblo.asia/p/php-unit-test-101-gioi-thieu-ve-phpunit-63vKjJEyK2R
+Từ Javascript thuần đến RxJS (Phần 1),https://viblo.asia/p/tu-javascript-thuan-den-rxjs-phan-1-m68Z0OJzKkG
+Bắt đầu học Javascript vào năm 2018 thì sẽ như nào?,https://viblo.asia/p/bat-dau-hoc-javascript-vao-nam-2018-thi-se-nhu-nao-07LKXORe5V4
+[Infrastructure] 127.0.0.1,https://viblo.asia/p/infrastructure-127001-bJzKmkd6l9N
+Xây dựng ứng dụng “động vật ẩn danh” như Google – Tại sao không?,https://viblo.asia/p/xay-dung-ung-dung-dong-vat-an-danh-nhu-google-tai-sao-khong-3P0lPkJmZox
+Functional Programming in JavaScript - Function Composition,https://viblo.asia/p/functional-programming-in-javascript-function-composition-3Q75wW795Wb
+Android - Architecture Components ViewModel - xử lý configuration changes chưa bao giờ đơn giản đến thế.,https://viblo.asia/p/android-architecture-components-viewmodel-xu-ly-configuration-changes-chua-bao-gio-don-gian-den-the-ByEZk3A4ZQ0
+Sử dụng Android Architecture Components áp dụng vào  Firebase Realtime Database (Phần 1),https://viblo.asia/p/su-dung-android-architecture-components-ap-dung-vao-firebase-realtime-database-phan-1-63vKjnzRK2R
+Sửa lỗi bảo mật File Access Vulnerability trong Ruby on Rails,https://viblo.asia/p/sua-loi-bao-mat-file-access-vulnerability-trong-ruby-on-rails-Qbq5QgmwZD8
+Optimistic Locking trong Rails,https://viblo.asia/p/optimistic-locking-trong-rails-L4x5xgaYlBM
+5 hàm Ruby bạn nên sử dụng,https://viblo.asia/p/5-ham-ruby-ban-nen-su-dung-XL6lAP9pZek
+Machine Learning thật thú vị (6): Nhận diện giọng nói,https://viblo.asia/p/machine-learning-that-thu-vi-6-nhan-dien-giong-noi-1Je5E8DylnL
+"Machine Learning thật thú vị (5): Dịch ngôn ngữ, chatbot và mô tả ảnh với RNN",https://viblo.asia/p/machine-learning-that-thu-vi-5-dich-ngon-ngu-chatbot-va-mo-ta-anh-voi-rnn-Eb85oJnml2G
+Machine Learning thật thú vị (4): Tự động tag tên bạn bè với HOG & CNN,https://viblo.asia/p/machine-learning-that-thu-vi-4-tu-dong-tag-ten-ban-be-voi-hog-cnn-ORNZqPDqK0n
+Machine Learning thật thú vị (3): Tìm kiếm ảnh chứa chim với CNN,https://viblo.asia/p/machine-learning-that-thu-vi-3-tim-kiem-anh-chua-chim-voi-cnn-vyDZOX1xlwj
+Machine Learning thật thú vị (1): Dự đoán giá nhà đất,https://viblo.asia/p/machine-learning-that-thu-vi-1-du-doan-gia-nha-dat-gAm5y91w5db
+"Bình luận Facebook: Bạn là Pokémon nào? Sử dụng Nodejs, Heroku",https://viblo.asia/p/binh-luan-facebook-ban-la-pokemon-nao-su-dung-nodejs-heroku-L4x5xgPOlBM
+Làm Thế Nào Để Đếm Được Line of Code của 10 000 Pull Requests ?,https://viblo.asia/p/lam-the-nao-de-dem-duoc-line-of-code-cua-10-000-pull-requests-gGJ592BaKX2
+GIT không có gì đáng sợ !!,https://viblo.asia/p/git-khong-co-gi-dang-so-yMnKMgMQl7P
+"Áp dụng Machine learning, xây dựng ứng dụng chatbot của riêng bạn.",https://viblo.asia/p/ap-dung-machine-learning-xay-dung-ung-dung-chatbot-cua-rieng-ban-3P0lPk38Zox
+Guide to Rails Caching,https://viblo.asia/p/guide-to-rails-caching-RnB5p7r7lPG
+Functional Programming in JavaScript - Functions,https://viblo.asia/p/functional-programming-in-javascript-functions-Ljy5VxvbZra
+Lập trình viên Front-end ban đầu nên bỏ túi những gì,https://viblo.asia/p/lap-trinh-vien-front-end-ban-dau-nen-bo-tui-nhung-gi-XL6lAPGJZek
+Python: Cách sử dụng hàm lồng nhau,https://viblo.asia/p/python-cach-su-dung-ham-long-nhau-6J3Zg23RKmB
+Machine Learning thật thú vị (2): Tạo sách văn học và game Mario,https://viblo.asia/p/machine-learning-that-thu-vi-2-tao-sach-van-hoc-va-game-mario-WAyK81o9ZxX
+Tự thiết lập private blockchain dựa trên nền tảng Ethereum,https://viblo.asia/p/tu-thiet-lap-private-blockchain-dua-tren-nen-tang-ethereum-RQqKLg0457z
+Random() có thực sự ngẫu nhiên ?,https://viblo.asia/p/random-co-thuc-su-ngau-nhien-L4x5xg81lBM
+Kinh nghiệm khi làm việc với Vim,https://viblo.asia/p/kinh-nghiem-khi-lam-viec-voi-vim-WAyK81eWZxX
+Từ hàng tỉ phép so sánh đến 10 giây,https://viblo.asia/p/tu-hang-ti-phep-so-sanh-den-10-giay-naQZR7ajlvx
+JavaScript - The Core - Object & Prototype,https://viblo.asia/p/javascript-the-core-object-prototype-YWOZrMqNKQ0
+Breaking a Captcha by Machine Learning,https://viblo.asia/p/breaking-a-captcha-by-machine-learning-bWrZneDbKxw
+Nhật ký học CI/ CD bắt đầu từ Drone.io,https://viblo.asia/p/nhat-ky-hoc-ci-cd-bat-dau-tu-droneio-gDVK2wxvZLj
+"Elixir và Unicode, Phần 1: Unicode và UTF-8 là gì ?",https://viblo.asia/p/elixir-va-unicode-phan-1-unicode-va-utf-8-la-gi-E375zbGd5GW
+kintone Plaform Part 3 - Hướng dẫn phát triển Plug-in,https://viblo.asia/p/kintone-plaform-part-3-huong-dan-phat-trien-plug-in-4P856XmLZY3
+kintone Plaform Part 2 - Sử dụng Plugin để mở rộng chức năng,https://viblo.asia/p/kintone-plaform-part-2-su-dung-plugin-de-mo-rong-chuc-nang-L4x5xymqKBM
+kintone Plaform Part 1 - Giải pháp quản trị Database không cần lập trình,https://viblo.asia/p/kintone-plaform-part-1-giai-phap-quan-tri-database-khong-can-lap-trinh-OeVKBYVr5kW
+Java Design Patterns (P1),https://viblo.asia/p/java-design-patterns-p1-GrLZDVPE5k0
+Mình đã làm bể cá thông minh như thế nào (phần 1),https://viblo.asia/p/minh-da-lam-be-ca-thong-minh-nhu-the-nao-phan-1-jvEla6nx5kw
+Những thủ thuật Python bạn nhất định phải biết trên con đường go pro,https://viblo.asia/p/nhung-thu-thuat-python-ban-nhat-dinh-phai-biet-tren-con-duong-go-pro-gGJ59XDGlX2
+Tìm hiểu về HTML5 Application Cache,https://viblo.asia/p/tim-hieu-ve-html5-application-cache-Az45bNvz5xY
+Android O – Những Cái Mới Mà Lập Trình Viên Cần Biết,https://viblo.asia/p/android-o-nhung-cai-moi-ma-lap-trinh-vien-can-biet-gDVK2aAn5Lj
+UX Review - Tản mạn về cái menu của Skype,https://viblo.asia/p/ux-review-tan-man-ve-cai-menu-cua-skype-vyDZOoJkZwj
+AWS IoT - Internet of Thing - Xây hệ thống chỉ với 1$ ?,https://viblo.asia/p/aws-iot-internet-of-thing-xay-he-thong-chi-voi-1-oOVlYyDvl8W
+Write clean code. Why not???,https://viblo.asia/p/write-clean-code-why-not-RnB5p1PwKPG
+Case Study: Solving Kaggle's Titanic machine learning competition,https://viblo.asia/p/case-study-solving-kaggles-titanic-machine-learning-competition-maGK7LG9Zj2
+Redux cho người mới bắt đầu - Part 2 First Project,https://viblo.asia/p/redux-cho-nguoi-moi-bat-dau-part-2-first-project-aRBvXWQZkWE
+Một ít về shell script,https://viblo.asia/p/mot-it-ve-shell-script-bJzKmLPE59N
+Kết hợp Primary keys cho ActiveRecords,https://viblo.asia/p/ket-hop-primary-keys-cho-activerecords-1Je5EMaA5nL
+Làm thế nào để đổi mật khẩu 5000 Gmail?,https://viblo.asia/p/lam-the-nao-de-doi-mat-khau-5000-gmail-gGJ59a9G5X2
+Single Page Application Concept Với Simple Demo (no framework),https://viblo.asia/p/single-page-application-concept-voi-simple-demo-no-framework-Qbq5QJ3wKD8
+Improving Webpack build performance and verbosity,https://viblo.asia/p/improving-webpack-build-performance-and-verbosity-bWrZneE9Kxw
+Số chữ số 0 liên tiếp cuối cùng của n!,https://viblo.asia/p/so-chu-so-0-lien-tiep-cuoi-cung-cua-n-4P856XOGZY3
+Zero downtime deployment for Rails with Capistrano and Unicorn,https://viblo.asia/p/zero-downtime-deployment-for-rails-with-capistrano-and-unicorn-Az45bA6QlxY
+Tại sao các công ty Product không thích nhân sự Outsourcing?,https://viblo.asia/p/tai-sao-cac-cong-ty-product-khong-thich-nhan-su-outsourcing-1VgZvxwp5Aw
+When & How to split your Laravel controllers,https://viblo.asia/p/when-how-to-split-your-laravel-controllers-WAyK8RLWlxX
+Quy hoạch động - một thuật toán thần thánh,https://viblo.asia/p/quy-hoach-dong-mot-thuat-toan-than-thanh-E375zy01lGW
+"Tiếp cận công nghệ, ngôn ngữ mới cho Cốt Đờ",https://viblo.asia/p/tiep-can-cong-nghe-ngon-ngu-moi-cho-cot-do-3P0lPvz4Kox
+Tạo Menu Hamburger Morphing với CSS mà không cần sử dụng JavaScript,https://viblo.asia/p/tao-menu-hamburger-morphing-voi-css-ma-khong-can-su-dung-javascript-4P856XX3ZY3
+Thuật toán di truyền - Ứng dụng giải một số bài toán kinh điển (phần 2),https://viblo.asia/p/thuat-toan-di-truyen-ung-dung-giai-mot-so-bai-toan-kinh-dien-phan-2-07LKXwYp5V4
+"Elixir và Unicode, Phần 2: Làm việc với Unicode Strings",https://viblo.asia/p/elixir-va-unicode-phan-2-lam-viec-voi-unicode-strings-Do754xV05M6
+Thuật toán đánh giá _score trong Elasticsearch,https://viblo.asia/p/thuat-toan-danh-gia-score-trong-elasticsearch-OeVKBY7y5kW
+Dùng Python 3 tính xác suất thoát FA,https://viblo.asia/p/dung-python-3-tinh-xac-suat-thoat-fa-aWj53VRbl6m
+Thử viết shell script theo dạng hướng đối tượng,https://viblo.asia/p/thu-viet-shell-script-theo-dang-huong-doi-tuong-eW65GdO6KDO
+Ứng dụng Deep Learning mô phỏng thao tác chơi của Flappy Birds,https://viblo.asia/p/ung-dung-deep-learning-mo-phong-thao-tac-choi-cua-flappy-birds-ByEZkWEEZQ0
+Value Objects trong Ruby on Rails,https://viblo.asia/p/value-objects-trong-ruby-on-rails-YWOZrM1pKQ0
+Những nguyên tắc cơ bản để code của bạn tốt hơn,https://viblo.asia/p/nhung-nguyen-tac-co-ban-de-code-cua-ban-tot-hon-1VgZvByrZAw
+Hai hướng tiếp cận để học lập trình: Top-Down và Bottom-Up,https://viblo.asia/p/hai-huong-tiep-can-de-hoc-lap-trinh-top-down-va-bottom-up-gDVK2wx2ZLj
+Xây dựng hệ thống tự động chấm bài thi trắc nghiệm với OpenCV - Phần 1,https://viblo.asia/p/xay-dung-he-thong-tu-dong-cham-bai-thi-trac-nghiem-voi-opencv-phan-1-07LKXY84ZV4
+JWT and using JWT in Rails,https://viblo.asia/p/jwt-and-using-jwt-in-rails-yMnKMq3QK7P
+Javascript - Single-thread liệu đã lỗi thời?,https://viblo.asia/p/javascript-single-thread-lieu-da-loi-thoi-gAm5yxwkldb
+10 thủ thuật Ruby mà bạn chưa từng thấy,https://viblo.asia/p/10-thu-thuat-ruby-ma-ban-chua-tung-thay-NPVMaDe6RQOk
+Thử Nghiệm Với Angular – Dependency Injection Trong Angular,https://viblo.asia/p/thu-nghiem-voi-angular-dependency-injection-trong-angular-naQZRe7AKvx
+Một số điều thú vị của PHP có thể bạn ít dùng,https://viblo.asia/p/mot-so-dieu-thu-vi-cua-php-co-the-ban-it-dung-bWrZnBMbZxw
+Kiểm thử cổng thanh toán - Hướng dẫn với checklist,https://viblo.asia/p/kiem-thu-cong-thanh-toan-huong-dan-voi-checklist-63vKjpPNl2R
+Mutation testing,https://viblo.asia/p/mutation-testing-naQZRgoGlvx
+10 nguyên nhân khiến bug bị từ chối và các giải pháp dành cho Tester!,https://viblo.asia/p/10-nguyen-nhan-khien-bug-bi-tu-choi-va-cac-giai-phap-danh-cho-tester-4dbZN0Oy5YM
+Hãy tập trung nhiều vào Hỗ Trợ Chất Lượng (Quality Assistance) chứ không chỉ Đảm Bảo Chất Lượng (Quality Assurance),https://viblo.asia/p/hay-tap-trung-nhieu-vao-ho-tro-chat-luong-quality-assistance-chu-khong-chi-dam-bao-chat-luong-quality-assurance-ORNZq3Mn50n
+Sử dụng Appium trong kiểm thử tự động ứng dụng trên Android (P1),https://viblo.asia/p/su-dung-appium-trong-kiem-thu-tu-dong-ung-dung-tren-android-p1-L4x5xQWwKBM
+7 Bước để tạo thành công một Test Strategy,https://viblo.asia/p/7-buoc-de-tao-thanh-cong-mot-test-strategy-OeVKBwQyZkW
+LITHO FACEBOOK,https://viblo.asia/p/litho-facebook-1VgZvBzRZAw
+Một số mẹo nhỏ trong thiết kế database lớn,https://viblo.asia/p/mot-so-meo-nho-trong-thiet-ke-database-lon-Qbq5QrnzKD8
+Những lỗi bảo mật phổ biến trong Rails,https://viblo.asia/p/nhung-loi-bao-mat-pho-bien-trong-rails-gDVK2abw5Lj
+Giới thiệu các Storage Engine trong MySQL,https://viblo.asia/p/gioi-thieu-cac-storage-engine-trong-mysql-Eb85oEb8Z2G
+[Tản mạn] Ảo hóa - Ai cũng biết nhưng cụ thể nó là gì ?,https://viblo.asia/p/tan-man-ao-hoa-ai-cung-biet-nhung-cu-the-no-la-gi-Do754NV3ZM6
+Machine Learning - Tổng quan về Machine Learning,https://viblo.asia/p/machine-learning-tong-quan-ve-machine-learning-RQqKLxaOK7z
+Khoa học máy tính trong Ruby: Sử dụng stacks để giải quyết vấn đề,https://viblo.asia/p/khoa-hoc-may-tinh-trong-ruby-su-dung-stacks-de-giai-quyet-van-de-E375zb315GW
+AI Conversation (2),https://viblo.asia/p/ai-conversation-2-1VgZvBBMZAw
+"Nghệ thuật viết code đẹp - Phần III: Đơn giản, dễ đọc hoá biểu thức",https://viblo.asia/p/nghe-thuat-viet-code-dep-phan-iii-don-gian-de-doc-hoa-bieu-thuc-RnB5p1vbKPG
+Tôi đã viết Gem đầu tiên của mình như thế nào?,https://viblo.asia/p/toi-da-viet-gem-dau-tien-cua-minh-nhu-the-nao-Az45bNeQ5xY
+Tại sao chúng ta nên chuyển sang Kotlin,https://viblo.asia/p/tai-sao-chung-ta-nen-chuyen-sang-kotlin-GrLZDVkE5k0
+Race for performance. User's psychology.,https://viblo.asia/p/race-for-performance-users-psychology-Eb85oEj2Z2G
+Configuring Webpack for React Development,https://viblo.asia/p/configuring-webpack-for-react-development-6J3ZgDwBlmB
+Optimizing MySQL Queries With Indexes,https://viblo.asia/p/optimizing-mysql-queries-with-indexes-gGJ59XxDlX2
+How PHP Executes,https://viblo.asia/p/how-php-executes-Qpmlendm5rd
+Refactoring - Mở đầu,https://viblo.asia/p/refactoring-mo-dau-eW65GdP9KDO
+Into to Machine Learning: Practical supervised learning algorithms with Scikit-learn,https://viblo.asia/p/into-to-machine-learning-practical-supervised-learning-algorithms-with-scikit-learn-RQqKLxNzK7z
+Làm quen với Redux trong rails app.,https://viblo.asia/p/lam-quen-voi-redux-trong-rails-app-Qbq5QqAw5D8
+Những tính năng tuyệt vời làm tôi chọn Kotlin thay vì Java,https://viblo.asia/p/nhung-tinh-nang-tuyet-voi-lam-toi-chon-kotlin-thay-vi-java-3Q75wgqe5Wb
+Áp dụng Agile vào quy trình thiết kế UX – kinh nghiệm từ Google,https://viblo.asia/p/ap-dung-agile-vao-quy-trinh-thiet-ke-ux-kinh-nghiem-tu-google-ORNZqw9q50n
+"[PHP] Xây dựng một ""Mini Query Builder"" từ PHP-PDO",https://viblo.asia/p/php-xay-dung-mot-mini-query-builder-tu-php-pdo-07LKXYAJZV4
+Cùng tìm hiểu về Kotlin (Phần 2),https://viblo.asia/p/cung-tim-hieu-ve-kotlin-phan-2-924lJMDXZPM
+Javascript Module Loader - From the basic,https://viblo.asia/p/javascript-module-loader-from-the-basic-vyDZOoX9Zwj
+Phần 1: Những khái niệm cơ bản trong Elasticsearch,https://viblo.asia/p/phan-1-nhung-khai-niem-co-ban-trong-elasticsearch-V3m5WzzglO7
+Code War 2017 - Final Round Write-ups,https://viblo.asia/p/code-war-2017-final-round-write-ups-djeZ1aQQZWz
+Làm thế nào để xây dựng một Recommender System (RS) - Phần 2,https://viblo.asia/p/lam-the-nao-de-xay-dung-mot-recommender-system-rs-phan-2-4dbZNxom5YM
+Python context manager - bạn đã thực sự hiểu?,https://viblo.asia/p/python-context-manager-ban-da-thuc-su-hieu-63vKjJmRK2R
+[Become a SuperUser] Debian vs Redhat: Package Management System,https://viblo.asia/p/become-a-superuser-debian-vs-redhat-package-management-system-gGJ59Xg1lX2
+Làm thế nào để xây dựng một Recommender System (RS) - Phần 1,https://viblo.asia/p/lam-the-nao-de-xay-dung-mot-recommender-system-rs-phan-1-aWj53V2Gl6m
+Unit Test cho người mới bắt đầu - Dễ dàng hơn khi dùng Mockito,https://viblo.asia/p/unit-test-cho-nguoi-moi-bat-dau-de-dang-hon-khi-dung-mockito-GrLZDVRw5k0
+Unit test cho Nodejs RESTful API với Mocha và Chai,https://viblo.asia/p/unit-test-cho-nodejs-restful-api-voi-mocha-va-chai-bWrZnLAv5xw
+Tản mạn về Testing,https://viblo.asia/p/tan-man-ve-testing-1Je5EMn05nL
+Các pattern của bộ tứ (Gang of Four) trong Kotlin,https://viblo.asia/p/cac-pattern-cua-bo-tu-gang-of-four-trong-kotlin-djeZ1aEJZWz
+UX Review - Viblo.asia có perfect?,https://viblo.asia/p/ux-review-vibloasia-co-perfect-924lJMRmZPM
+Continuous Integration with Jenkins - Bài 3: Jenkins integration with GIT,https://viblo.asia/p/continuous-integration-with-jenkins-bai-3-jenkins-integration-with-git-924lJMJYZPM
+Security checklist cho web developer,https://viblo.asia/p/security-checklist-cho-web-developer-ORNZqweM50n
+Ước tính chi phí và độ lớn của dự án theo cách của scrum,https://viblo.asia/p/uoc-tinh-chi-phi-va-do-lon-cua-du-an-theo-cach-cua-scrum-oOVlYybal8W
+Tối ưu tốc độ tải trang với Progressive rendering,https://viblo.asia/p/toi-uu-toc-do-tai-trang-voi-progressive-rendering-XL6lAg0BKek
+https và SSL,https://viblo.asia/p/https-va-ssl-OeVKBg4AZkW
+UX Review: Đừng tưởng to như Facebook mà ko mắc lỗi UX cơ bản,https://viblo.asia/p/ux-review-dung-tuong-to-nhu-facebook-ma-ko-mac-loi-ux-co-ban-07LKXY9EZV4
+Lập kế hoạch Test,https://viblo.asia/p/lap-ke-hoach-test-NbmvbaWgkYO
+Kết hợp CLI trong quản lý công việc,https://viblo.asia/p/ket-hop-cli-trong-quan-ly-cong-viec-JlkRymWxRZW
+Model-View-ViewModel Achitecture in Android without Data Binding library,https://viblo.asia/p/model-view-viewmodel-achitecture-in-android-without-data-binding-library-3Q75wgmM5Wb
+Kotlin Coroutines: async/await trong Android,https://viblo.asia/p/kotlin-coroutines-asyncawait-trong-android-1Je5EMP05nL
+[SLIDE] Introduce To Some Common Cyber-Attack Vectors,https://viblo.asia/p/slide-introduce-to-some-common-cyber-attack-vectors-aWj53VG1l6m
+Refactor rails,https://viblo.asia/p/refactor-rails-ByEZkLO4lQ0
+Một Số Method Và Phong Cách Code Hay Trong Rails,https://viblo.asia/p/mot-so-method-va-phong-cach-code-hay-trong-rails-GrLZDV7V5k0
+Tại sao tôi lại chuyển từ Webpack sang Brunch?,https://viblo.asia/p/tai-sao-toi-lai-chuyen-tu-webpack-sang-brunch-oOVlYykQl8W
+Một vài lỗi comment nên lưu ý trong Rails,https://viblo.asia/p/mot-vai-loi-comment-nen-luu-y-trong-rails-naQZReXXKvx
+How to show/hide Toolbar when scrolling RecyclerView,https://viblo.asia/p/how-to-showhide-toolbar-when-scrolling-recyclerview-m68Z0mvNlkG
+Giới thiệu về CSS3 Flexbox,https://viblo.asia/p/gioi-thieu-ve-css3-flexbox-3P0lPM785ox
+Session và cookies,https://viblo.asia/p/session-va-cookies-3P0lPM7g5ox
+Redux cho người mới bắt đầu - Part 1 Introduction,https://viblo.asia/p/redux-cho-nguoi-moi-bat-dau-part-1-introduction-ZjleaBBZkqJ
+Machine Learning thật thú vị,https://viblo.asia/p/machine-learning-that-thu-vi-ByEZk7QqZQ0
+Tìm hiểu sâu hơn về scope Javascript,https://viblo.asia/p/tim-hieu-sau-hon-ve-scope-javascript-Qbq5QrRwKD8
+React Performance Tuning,https://viblo.asia/p/react-performance-tuning-jvElaLYxZkw
+The only proper PDO tutorial,https://viblo.asia/p/the-only-proper-pdo-tutorial-Do754EvLKM6
+Tuyển tập các tip và trick khi sử dụng javascript,https://viblo.asia/p/tuyen-tap-cac-tip-va-trick-khi-su-dung-javascript-RQqKLMp0Z7z
+Bundled PHP classes you might have not known about,https://viblo.asia/p/bundled-php-classes-you-might-have-not-known-about-gAm5yvPEKdb
+Reactive programing with Java [Part 2],https://viblo.asia/p/reactive-programing-with-java-part-2-oOVlYERrl8W
+Độ phức tạp thuật toán: Ảnh hưởng của O lớn tới performance,https://viblo.asia/p/do-phuc-tap-thuat-toan-anh-huong-cua-o-lon-toi-performance-Ljy5VdjMZra
+Series Single-page Application với Rails và AngularJS(1.x) - Phần 1,https://viblo.asia/p/series-single-page-application-voi-rails-va-angularjs1x-phan-1-Eb85o2eWl2G
+Tại sao cần mã hóa mật khẩu ? Và các kiểu mã hóa cơ bản,https://viblo.asia/p/tai-sao-can-ma-hoa-mat-khau-va-cac-kieu-ma-hoa-co-ban-yMnKML0Q57P
+Hướng dẫn thiết kế hệ thống (Phần 1),https://viblo.asia/p/huong-dan-thiet-ke-he-thong-phan-1-gGJ59YAJ5X2
+LLDB Debugger,https://viblo.asia/p/lldb-debugger-3Q75wDQDKWb
+Part 3 - Gerrit Code Review with Jenkins CI : Tích hợp CI / CD,https://viblo.asia/p/part-3-gerrit-code-review-with-jenkins-ci-tich-hop-ci-cd-eW65GYWOZDO
+Các Request được xử lý như thế nào trong Laravel Framework?,https://viblo.asia/p/cac-request-duoc-xu-ly-nhu-the-nao-trong-laravel-framework-4dbZN0NQ5YM
+Understanding Data-Binding's generated code and How does Android Data-Binding compiler work,https://viblo.asia/p/understanding-data-bindings-generated-code-and-how-does-android-data-binding-compiler-work-Ljy5Vd1yZra
+[Reactive Functional Programing] Xây dựng ứng dụng Suggestion Follower với Rxjs,https://viblo.asia/p/reactive-functional-programing-xay-dung-ung-dung-suggestion-follower-voi-rxjs-OeVKBwNEZkW
+"Kanban, Scrum và Agile: Những điểm khác biệt cơ bản",https://viblo.asia/p/kanban-scrum-va-agile-nhung-diem-khac-biet-co-ban-07LKXEbrZV4
+"[Swift] Cùng Tố Hữu tìm hiểu ""Bạn hiểu Device của bạn tới đâu""",https://viblo.asia/p/swift-cung-to-huu-tim-hieu-ban-hieu-device-cua-ban-toi-dau-6J3ZgkmMZmB
+SOLID Principles in Ruby,https://viblo.asia/p/solid-principles-in-ruby-gDVK2WnwZLj
+Xử lý vấn đề Timeout khi Push notify cho nhiều devices,https://viblo.asia/p/xu-ly-van-de-timeout-khi-push-notify-cho-nhieu-devices-4P856xvWZY3
+Space Position pattern - Công nghệ chọn gấu,https://viblo.asia/p/space-position-pattern-cong-nghe-chon-gau-vyDZOy7O5wj
+ES6 - The Good Part (Phần 2),https://viblo.asia/p/es6-the-good-part-phan-2-RnB5pnMDZPG
+ES6 - The Good Part (Phần 1),https://viblo.asia/p/es6-the-good-part-phan-1-L4x5xQ1mKBM
+JSON Web Tokens (JWT) vs Sessions,https://viblo.asia/p/json-web-tokens-jwt-vs-sessions-4dbZN0Mg5YM
+Measuring Developer Productivity,https://viblo.asia/p/measuring-developer-productivity-bWrZnB7YZxw
+Angular JS Directive vs Component,https://viblo.asia/p/angular-js-directive-vs-component-JQVkVzgJkyd
+Android performance pattern,https://viblo.asia/p/android-performance-pattern-jvElaLrdZkw
+PHP Fractal - Viết API's JSON đẹp hơn,https://viblo.asia/p/php-fractal-viet-apis-json-dep-hon-eW65GYvJZDO
+Đừng để dữ liệu ngoài database,https://viblo.asia/p/dung-de-du-lieu-ngoai-database-GrLZD9OBlk0
+HAProxy and keepalive,https://viblo.asia/p/haproxy-and-keepalive-1VgZv382lAw
+Ứng dụng ReSwift trong dự án iOS,https://viblo.asia/p/ung-dung-reswift-trong-du-an-ios-4P856xJ3ZY3
+Laravel requests... DEADLY flexible,https://viblo.asia/p/laravel-requests-deadly-flexible-vyDZOy175wj
+Implementing multilingual full-text search with fuzziness and highlighting,https://viblo.asia/p/implementing-multilingual-full-text-search-with-fuzziness-and-highlighting-3P0lPMnp5ox
+"Sử dụng select, reject, detect, collect hay inject",https://viblo.asia/p/su-dung-select-reject-detect-collect-hay-inject-1VgZv342lAw
+Một ít về React,https://viblo.asia/p/mot-it-ve-react-RQqKLMNmZ7z
+Cách sử dụng Android Keystore để lưu trữ mật khẩu và các thông tin nhạy cảm trong một ứng dụng Android,https://viblo.asia/p/cach-su-dung-android-keystore-de-luu-tru-mat-khau-va-cac-thong-tin-nhay-cam-trong-mot-ung-dung-android-1VgZv3a9lAw
+Cải thiện hiệu năng Rails app với cache,https://viblo.asia/p/cai-thien-hieu-nang-rails-app-voi-cache-L4x5xQkqKBM
+Simple CSS3 transition that will wow your users,https://viblo.asia/p/simple-css3-transition-that-will-wow-your-users-924lJXLNKPM
+Angular - Resolving Route Data,https://viblo.asia/p/angular-resolving-route-data-1VgZv319lAw
+Hướng dẫn cơ bản sử dụng NPM như một Build tool (part 1),https://viblo.asia/p/huong-dan-co-ban-su-dung-npm-nhu-mot-build-tool-part-1-4dbZN0qk5YM
+20 icons loading cho website (Part 1),https://viblo.asia/p/20-icons-loading-cho-website-part-1-bJzKm1wXK9N
+Sử dụng Action Hook trong WordPress như thế nào,https://viblo.asia/p/su-dung-action-hook-trong-wordpress-nhu-the-nao-gDVK2W22ZLj
+Predict independent values with text data using linear regression,https://viblo.asia/p/predict-independent-values-with-text-data-using-linear-regression-aWj5314eZ6m
+Một số Chrome Extensions hữu ích dành cho việc Test Web Apps,https://viblo.asia/p/mot-so-chrome-extensions-huu-ich-danh-cho-viec-test-web-apps-GrLZD9vElk0
+Functional inheritance - JavaScript,https://viblo.asia/p/functional-inheritance-javascript-Az45bpQQZxY
+Thiết kế RESTful API,https://viblo.asia/p/thiet-ke-restful-api-GrLZD98Vlk0
+Hệ mã hóa RSA và chữ ký số,https://viblo.asia/p/he-ma-hoa-rsa-va-chu-ky-so-6J3ZgkgMZmB
+Tôi học NodeJS thế nào?,https://viblo.asia/p/toi-hoc-nodejs-the-nao-ZalGrNXvGqX
+Twitter đã deploy widgets JavaScript của họ như thế nào,https://viblo.asia/p/twitter-da-deploy-widgets-javascript-cua-ho-nhu-the-nao-1Je5Epe0lnL
+Naming - Cách đặt tên,https://viblo.asia/p/naming-cach-dat-ten-oZVRglVxMmg5
+Một số lỗ hổng phổ biến của website và cách đối phó,https://viblo.asia/p/mot-so-lo-hong-pho-bien-cua-website-va-cach-doi-pho-gVQvlwyJkZJ
+Ngôn ngữ của Vim,https://viblo.asia/p/ngon-ngu-cua-vim-lA7GKnz4MKZQ
+HTTP Caching,https://viblo.asia/p/http-caching-6BAMYknzvnjz
+Introduction to Oauth2,https://viblo.asia/p/introduction-to-oauth2-3OEqGjDpR9bL
+MySQL index optimize B-Tree,https://viblo.asia/p/mysql-index-optimize-b-tree-mDYGDPmXGpx
+Hiểu về đồng bộ và không đồng bộ trong JavaScript,https://viblo.asia/p/hieu-ve-dong-bo-va-khong-dong-bo-trong-javascript-lxrRXNYpzeO
+Viết những truy vấn hiệu quả trong Rails,https://viblo.asia/p/viet-nhung-truy-van-hieu-qua-trong-rails-XL6lAYmglek
+Cross-Site Request Forgery (CSRF) sắp hết thời?!!,https://viblo.asia/p/cross-site-request-forgery-csrf-sap-het-thoi-oOVlYyEyl8W
+Auto Deploy project Laravel lên Heroku,https://viblo.asia/p/auto-deploy-project-laravel-len-heroku-oOVlYyQal8W
+How does the Vue Template work?,https://viblo.asia/p/how-does-the-vue-template-work-Qpmleqvklrd
+Webpack series (ep2) - CSS Splitting - Tách css trong Webpack,https://viblo.asia/p/webpack-series-ep2-css-splitting-tach-css-trong-webpack-GrLZDVn25k0
+Code War 2017 - Online Round Write-ups - Part 2,https://viblo.asia/p/code-war-2017-online-round-write-ups-part-2-gDVK2WYeZLj
+Code War 2017 - Online Round Write-ups - Part 1,https://viblo.asia/p/code-war-2017-online-round-write-ups-part-1-aWj531Y1Z6m
+Part 1. Predict Dota 2 match winner by the first 5 minutes of the game. Gradient Boosting.,https://viblo.asia/p/part-1-predict-dota-2-match-winner-by-the-first-5-minutes-of-the-game-gradient-boosting-GrLZD9NVlk0
+Design patterns - Facade Pattern,https://viblo.asia/p/design-patterns-facade-pattern-jvElaLVAZkw
+Làm gầy Model và Controller,https://viblo.asia/p/lam-gay-model-va-controller-gGJ59Yda5X2
+Slack và Trello - cặp đôi hoàn hảo,https://viblo.asia/p/slack-va-trello-cap-doi-hoan-hao-OeVKBwerZkW
+Lộ trình để trở thành lập trình viên web trong năm 2017,https://viblo.asia/p/lo-trinh-de-tro-thanh-lap-trinh-vien-web-trong-nam-2017-aWj531aPZ6m
+Magic method và Class aliases trong PHP,https://viblo.asia/p/magic-method-va-class-aliases-trong-php-WAyK8Ej6ZxX
+Introducing Protocol-Oriented Programming in Swift 3 part I,https://viblo.asia/p/introducing-protocol-oriented-programming-in-swift-3-part-i-aWj531jQZ6m
+Vấn đề của Rails Callback,https://viblo.asia/p/van-de-cua-rails-callback-1VgZv3A7lAw
+Những điểm khác biệt giữa SQL và NoSQL,https://viblo.asia/p/nhung-diem-khac-biet-giua-sql-va-nosql-gDVK2WPjZLj
+Quay bản đồ google map theo hướng thiết bị khi di chuyển.,https://viblo.asia/p/quay-ban-do-google-map-theo-huong-thiet-bi-khi-di-chuyen-1VgZv321lAw
+Cách sử dụng Icon Fonts trong ứng dụng Android,https://viblo.asia/p/cach-su-dung-icon-fonts-trong-ung-dung-android-bWrZnBQpZxw
+"PHPUnit - Bạn đã hiểu đúng về Stub, Mock, Spy, Fake, Dummy chưa?",https://viblo.asia/p/phpunit-ban-da-hieu-dung-ve-stub-mock-spy-fake-dummy-chua-XL6lAYWDlek
+Best Practices for Designing a Pragmatic RESTful API,https://viblo.asia/p/best-practices-for-designing-a-pragmatic-restful-api-1VgZv3mYlAw
+So sánh các mô hình dự đoán trong bài toán nhận dạng khuôn mặt và ví dụ thực tế,https://viblo.asia/p/so-sanh-cac-mo-hinh-du-doan-trong-bai-toan-nhan-dang-khuon-mat-va-vi-du-thuc-te-aWeGmgmdKBD
+Tìm hiểu Laravel từ số 0 (P3),https://viblo.asia/p/tim-hieu-laravel-tu-so-0-p3-aqkznbdWznA
+Java String (P1),https://viblo.asia/p/java-string-p1-MdZkAQrgkox
+Hướng dẫn tích hợp Spring Framework vào Wicket Framework,https://viblo.asia/p/huong-dan-tich-hop-spring-framework-vao-wicket-framework-gVQvlwpOkZJ
+Machine Learning,https://viblo.asia/p/machine-learning-PDOkqLxPejx
+Java 8 Optional: Nên sử dụng khi nào?,https://viblo.asia/p/java-8-optional-nen-su-dung-khi-nao-MVpvKyWQeKd
+Về một lỗi của Java 8 Stream API,https://viblo.asia/p/ve-mot-loi-cua-java-8-stream-api-MJykjxaqGPB
+Giới thiệu thư viện Lodash,https://viblo.asia/p/gioi-thieu-thu-vien-lodash-WrJvYKWxeVO
+Set up Spring + Hibernate application,https://viblo.asia/p/set-up-spring-hibernate-application-mrDGMMrJGzL
+Tìm hiểu về UIPresentationController: tạo custom present cho UIViewController,https://viblo.asia/p/tim-hieu-ve-uipresentationcontroller-tao-custom-present-cho-uiviewcontroller-JQVGVrRWGyd
+Xây dựng ứng dụng trên Apple Watch,https://viblo.asia/p/xay-dung-ung-dung-tren-apple-watch-PDOkqjwpvjx
+Optimizing Performance trong ReactJS,https://viblo.asia/p/optimizing-performance-trong-reactjs-MJykjmgAePB
+Ví dụ Clean Architecture trong Android,https://viblo.asia/p/vi-du-clean-architecture-trong-android-MgNeWDYKkYx
+CSS Preprocessors Compared: Sass vs. Stylus,https://viblo.asia/p/css-preprocessors-compared-sass-vs-stylus-roaerJydeRM
+How References work in Java and Android,https://viblo.asia/p/how-references-work-in-java-and-android-PwRGgmookEd
+Tránh lạm dụng Singleton,https://viblo.asia/p/tranh-lam-dung-singleton-qzakzZlRkyO
+Engineering the architecture behind uber's new rider app,https://viblo.asia/p/engineering-the-architecture-behind-ubers-new-rider-app-DKBedxKBedX
+Các vấn đề về Docker trên Production,https://viblo.asia/p/cac-van-de-ve-docker-tren-production-DzVkpmMwvnW
+Cài đặt HA Galera Cluster MariaDB sử dụng MaxScale trên CentOS 6,https://viblo.asia/p/cai-dat-ha-galera-cluster-mariadb-su-dung-maxscale-tren-centos-6-ZDEvLRaEeJb
+Những nguyên tắc đảm bảo tính dễ đọc của method (Cyclomatic Complexity) - dành cho người mới lập trình,https://viblo.asia/p/nhung-nguyen-tac-dam-bao-tinh-de-doc-cua-method-cyclomatic-complexity-danh-cho-nguoi-moi-lap-trinh-1l0rvm0VGyqA
+8 thuộc tính ít được biết đến trong CSS,https://viblo.asia/p/8-thuoc-tinh-it-duoc-biet-den-trong-css-ZalGrNqdGqX
+(Phần 2) Tìm hiểu về BEM - CSS hiệu quả với Sass Mixin,https://viblo.asia/p/phan-2-tim-hieu-ve-bem-css-hieu-qua-voi-sass-mixin-jvlKaqWkKVr
+Google Guice - Java,https://viblo.asia/p/google-guice-java-oaOzbxjnREx
+Animations in Angular,https://viblo.asia/p/animations-in-angular-eXoKWkDYKLO
+10 step để thiết kế bất kì game 2D nào cũng hay cho anh em [Phần 1],https://viblo.asia/p/10-step-de-thiet-ke-bat-ki-game-2d-nao-cung-hay-cho-anh-em-phan-1-rYvGwawxKVw
+10 step để thiết kế bất kì game 2D nào cũng hay cho anh em [Phần 2],https://viblo.asia/p/10-step-de-thiet-ke-bat-ki-game-2d-nao-cung-hay-cho-anh-em-phan-2-PmezQpQaKoB
+Layer 4 vs Layer 7 Load Balancing on Linux,https://viblo.asia/p/layer-4-vs-layer-7-load-balancing-on-linux-eBYjv40yvxpV
+Trở thành Functional Programmer - Phần 1,https://viblo.asia/p/tro-thanh-functional-programmer-phan-1-PqOzvNbWzAB
+HTTPS có thực sự bảo mật?,https://viblo.asia/p/https-co-thuc-su-bao-mat-MJykjVoNkPB
+Check if an integer number is power of 2 ,https://viblo.asia/p/check-if-an-integer-number-is-power-of-2-WApGx3QQM06y
+[Become a SuperUser - Part 0] Unix vs Linux. Nguồn gốc và sự khác biệt,https://viblo.asia/p/become-a-superuser-part-0-unix-vs-linux-nguon-goc-va-su-khac-biet-rNkKxxMAKlm
+ReactJS từ góc nhìn của người lập trình Frontend,https://viblo.asia/p/reactjs-tu-goc-nhin-cua-nguoi-lap-trinh-frontend-zNPVMakNvQOk
+Giới thiệu cơ bản về Tmux,https://viblo.asia/p/gioi-thieu-co-ban-ve-tmux-zoZVRgLEMmg5
+github.io - Hiện thực hoá ước mơ thời thơ ấu,https://viblo.asia/p/githubio-hien-thuc-hoa-uoc-mo-thoi-tho-au-0bDM6wkXG2X4
+"Anh tạo user cho em rồi, vào đổi password đi nhé!",https://viblo.asia/p/anh-tao-user-cho-em-roi-vao-doi-password-di-nhe-aKYMNjjrM83E
+Beezaro | Làm HTML canvas game bằng Create JS,https://viblo.asia/p/beezaro-lam-html-canvas-game-bang-create-js-AQ3vVk3ZRbOr
+Enum trong Rails - con dao hai lưỡi,https://viblo.asia/p/enum-trong-rails-con-dao-hai-luoi-nwmGyElDGoW
+Giới thiệu Lambda Expression trong Java 8,https://viblo.asia/p/gioi-thieu-lambda-expression-trong-java-8-EyORkbklGqB
+Angular 2 architecture overview (P1),https://viblo.asia/p/angular-2-architecture-overview-p1-eXaRlwbeGmx
+Xử lí không đồng bộ trong javascript,https://viblo.asia/p/xu-li-khong-dong-bo-trong-javascript-MJykjVALkPB
+MySQL Indexing,https://viblo.asia/p/mysql-indexing-PDOkqWxAGjx
+Join vs Subquery: The Problem Of MySQL Query Optimizer?,https://viblo.asia/p/join-vs-subquery-the-problem-of-mysql-query-optimizer-mrDGMbgXezL
+Laravel Mailables - Những thay đổi về việc sử dụng mail trong Laravel 5.3,https://viblo.asia/p/laravel-mailables-nhung-thay-doi-ve-viec-su-dung-mail-trong-laravel-53-MdZkAjEpvox
+Cơ bản về git,https://viblo.asia/p/co-ban-ve-git-roavrJdovRM
+React + ES6 = không còn autobind,https://viblo.asia/p/react-es6-khong-con-autobind-EoDkQOZbGbV
+6 điều rút ra khi làm việc ở dự án lớn,https://viblo.asia/p/6-dieu-rut-ra-khi-lam-viec-o-du-an-lon-bxjvZOBjGJZ
+"Những thói quen xấu làm kìm hãm sự tiến bộ của các lập trình viên, mới bắt đầu làm chưa lâu, mà tôi đã nhận ra trong khi kèm cặp họ",https://viblo.asia/p/nhung-thoi-quen-xau-lam-kim-ham-su-tien-bo-cua-cac-lap-trinh-vien-moi-bat-dau-lam-chua-lau-ma-toi-da-nhan-ra-trong-khi-kem-cap-ho-Zzb7vDnMjKdP
+"Những nguyên tắc, những định luật của lập trình mà chúng ta nên có sẵn trong đầu",https://viblo.asia/p/nhung-nguyen-tac-nhung-dinh-luat-cua-lap-trinh-ma-chung-ta-nen-co-san-trong-dau-wpVYRP2kG4ng
+MySQL Index Condition Pushdown,https://viblo.asia/p/mysql-index-condition-pushdown-ZjlealAZGqJ
+Variables Comparison in Javascript,https://viblo.asia/p/variables-comparison-in-javascript-3ZabG9QwGzY6
+Variable Comparison in PHP,https://viblo.asia/p/variable-comparison-in-php-3ZabG9mkGzY6
+Laravel Beauty: Recipes & Best Practices,https://viblo.asia/p/laravel-beauty-recipes-best-practices-6BAMYk9Evnjz
+Laravel Beauty: Tìm hiểu về Service container,https://viblo.asia/p/laravel-beauty-tim-hieu-ve-service-container-3KbvZ1wLGmWB
+Laravel Beauty: Tìm hiểu về Service Provider,https://viblo.asia/p/laravel-beauty-tim-hieu-ve-service-provider-zb7vDVJnMjKd
+Laravel Beauty: Tìm hiểu về Facade,https://viblo.asia/p/laravel-beauty-tim-hieu-ve-facade-znVGLYLbvZOe
+Tìm hiểu về Strict Mode trong Javascript,https://viblo.asia/p/tim-hieu-ve-strict-mode-trong-javascript-jaqG0QQevEKw
+Laravel Beauty: Tìm hiểu về Contract,https://viblo.asia/p/laravel-beauty-tim-hieu-ve-contract-oZVRg4mpMmg5
+Giới thiệu một mô hình sử dụng Git branches hiệu quả,https://viblo.asia/p/gioi-thieu-mot-mo-hinh-su-dung-git-branches-hieu-qua-ZabG9zy4vzY6
+Sử dụng CDN để giảm tải cho Server,https://viblo.asia/p/su-dung-cdn-de-giam-tai-cho-server-ymwGXOxoM4p1
+Elasticsearch: Distributed Search,https://viblo.asia/p/elasticsearch-distributed-search-ZnbRlr6lG2Xo
+Microservices,https://viblo.asia/p/microservices-OEqGj5BQM9bL
+Meta programming in Javascript,https://viblo.asia/p/meta-programming-in-javascript-lA7GKweWGKZQ
+Tổng quan về Laravel Echo,https://viblo.asia/p/tong-quan-ve-laravel-echo-3KbvZqK4GmWB
+Laravel Eloquent Technique: Dedicated Query String Filtering,https://viblo.asia/p/laravel-eloquent-technique-dedicated-query-string-filtering-oZVRg4XZMmg5
+Sử dụng EXPLAIN để tối ưu câu lệnh MySQL,https://viblo.asia/p/su-dung-explain-de-toi-uu-cau-lenh-mysql-BYjv44gmvxpV
+Những điều lưu ý khi viết Unit Test - The Magic Tricks of Testing,https://viblo.asia/p/nhung-dieu-luu-y-khi-viet-unit-test-the-magic-tricks-of-testing-aRBvXxqbvWE
+Code reviewing as a mindset,https://viblo.asia/p/code-reviewing-as-a-mindset-ZalKrNDZKqX
+Android Gooey FAB Is EASY,https://viblo.asia/p/android-gooey-fab-is-easy-aWeGmgNAKBD
+Kiểu dữ liệu NaN trong JavaScript - Một cái nhìn sâu sắc,https://viblo.asia/p/kieu-du-lieu-nan-trong-javascript-mot-cai-nhin-sau-sac-WEMGBVZBGQK
+Trở thành Functional Programmer - Phần 5,https://viblo.asia/p/tro-thanh-functional-programmer-phan-5-gkyzEoNoRnv
+Chrome’s Console tricks,https://viblo.asia/p/chromes-console-tricks-rYvKwaDXGVw
+Tất cả những thứ bạn cần biết về HTTP security headers,https://viblo.asia/p/tat-ca-nhung-thu-ban-can-biet-ve-http-security-headers-mDYGDPLVGpx
+Trở thành Functional Programmer - Phần 6,https://viblo.asia/p/tro-thanh-functional-programmer-phan-6-EyORkbjEGqB
+Dùng Elasticsearch Geo Api để giải quyết các bài toán tìm kiếm địa điểm,https://viblo.asia/p/dung-elasticsearch-geo-api-de-giai-quyet-cac-bai-toan-tim-kiem-dia-diem-aqkznbleznA
+Ứng dụng thuật toán phân cụm K-means trong nhận diện chữ số viết tay,https://viblo.asia/p/ung-dung-thuat-toan-phan-cum-k-means-trong-nhan-dien-chu-so-viet-tay-gEmROxmgKpv
+Functional Reactive Programing với Rxjs,https://viblo.asia/p/functional-reactive-programing-voi-rxjs-wgrGVxbMKVa
+Trở thành Functional Programmer - Phần 3,https://viblo.asia/p/tro-thanh-functional-programmer-phan-3-JdAGJgkgRgk
+Trở thành Functional Programmer - Phần 2,https://viblo.asia/p/tro-thanh-functional-programmer-phan-2-xlbzBNwxzDM
+Trở thành Functional Programmer - Phần 4,https://viblo.asia/p/tro-thanh-functional-programmer-phan-4-AoDKYNWQzvg
+Triển khai dịch vụ High Available với  Keepalived + HAproxy trên server Ubuntu,https://viblo.asia/p/trien-khai-dich-vu-high-available-voi-keepalived-haproxy-tren-server-ubuntu-jOxKdqWlzdm
+URL with HashIDs in Rails App,https://viblo.asia/p/url-with-hashids-in-rails-app-lxrzXNLJReO
+"Write no ""for"" loop",https://viblo.asia/p/write-no-for-loop-ZalGrNAPGqX
+Destructuring Assignment in ES6,https://viblo.asia/p/destructuring-assignment-in-es6-xlbRBNQgRDM
+Thuật toán Minimax (AI trong Game),https://viblo.asia/p/thuat-toan-minimax-ai-trong-game-APqzeaVVzVe
+Tại sao khái niệm hướng đối tượng lại là đồ bỏ đi?,https://viblo.asia/p/tai-sao-khai-niem-huong-doi-tuong-lai-la-do-bo-di-PaLGDmOQelX
+Angular 2 architecture overview (P2),https://viblo.asia/p/angular-2-architecture-overview-p2-EyORkbyQGqB
